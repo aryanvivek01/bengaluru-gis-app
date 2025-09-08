@@ -1,0 +1,3335 @@
+ward_id,tree_type,count
+53,Artocarpus Heterophyllus Lam.,1
+53,Caryota Mitis Lour.,2
+53,Delonix Regia (Bojer Ex Hook.) Raf.,1
+53,Ficus Racemosa L.,5
+53,Ficus Religiosa L.,3
+53,Others,397
+53,Pongamia Pinnata (L.) Pierre,109
+53,Pterocarpus Marsupium Roxb,1
+53,Roystonea Regia (H.B.K) O. F. Cook,97
+53,Samanea Saman (Jacq.) Merr.,5
+53,Saraca Asoca (Roxb.) De Wilde,62
+53,Spathodea Campanulata P. Beauv,4
+53,Swietenia Mahagoni (L.) Jacq.,1
+53,Syzygium Cumini (L.) Skeels,1
+53,Tabebuia Chrysotricha (Mart. Ex Dc.) Standl,57
+53,Tabebuia Rosea (Bertol) Dc.,34
+53,Terminalia Catappa L,2
+60,Adenanthera Pavonina L.,1
+60,Araucaria Columnaris,3
+60,Artocarpus Heterophyllus Lam.,26
+60,Artocarpus Hirsutus Lam.,1
+60,Azadirachta Indica A. Juss.,4
+60,Bauhinia Forficata,1
+60,Bauhinia Purpurea L.,1
+60,Bauhinia Racemosa Lam,20
+60,Bauhinia Variegata L.,1
+60,Broussonetia Papyrifera Vent,29
+60,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,1
+60,Caryota Mitis Lour.,1
+60,Cassia Javanica L.,1
+60,Cedrela Odorata L,1
+60,Citharexylum Fruticosum L.,2
+60,Cochlospermum Religiosum (L.),10
+60,Cocos Nucifera L.,3
+60,Erythrina Suberosa Roxb.,1
+60,Eucalyptus Tereticornis Sm.,51
+60,Ficus Benghalensis L.,8
+60,Ficus Racemosa L.,1
+60,Ficus Religiosa L.,23
+60,Firmiana Colorata (Roxb.) R. Br.,1
+60,Grevillea Robusta Cunn. Ex R. Br.,18
+60,Lagerstroemia Speciosa (L.) Pers,3
+60,Mangifera Indica L.,9
+60,Markhamia Lutea (Benth.) K.Schum,30
+60,Michelia Champaca L,3
+60,Michelia Longifolia Blume,8
+60,Millingtonia Hortensis L.F,43
+60,Muntingia Calabura L.,4
+60,Others,113
+60,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,115
+60,Plumeria Obtusa L. Var. Sericiflora,1
+60,Plumeria Rubra L. Forma Rubra,1
+60,Plumeria Rubra L. Forma Tricolor,1
+60,Pongamia Pinnata (L.) Pierre,228
+60,Psidium Guajava L.,2
+60,Pterocarpus Marsupium Roxb,1
+60,Roystonea Regia (H.B.K) O. F. Cook,270
+60,Samanea Saman (Jacq.) Merr.,33
+60,Saraca Asoca (Roxb.) De Wilde,112
+60,Sesbania Grandiflora (L.) Poiret,1
+60,Simarouba Glauca Dc.,1
+60,Spathodea Campanulata P. Beauv,23
+60,Swietenia Mahagoni (L.) Jacq.,86
+60,Syzygium Cumini (L.) Skeels,29
+60,Syzygium Nervosum Dc,1
+60,Syzygium Samarangese (Bl.) Merr. & Perry,2
+60,Tabebuia Aurea (Manso) Benth. & Hook.F. Ex S. Moore,1
+60,Tabebuia Pallida (Lindley) Miers,4
+60,Tabebuia Rosea (Bertol) Dc.,92
+60,Tamarindus Indica L.,2
+60,Tectona Grandis L.F,2
+60,Terminalia Catappa L,19
+60,Thespesia Populnea,12
+60,Wrightia Tinctoria (Roxb.) R. Br,2
+61,Bauhinia Racemosa Lam,1
+61,Melia Azedarach L,1
+61,Others,1
+80,Markhamia Lutea (Benth.) K.Schum,1
+80,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,1
+90,Mangifera Indica L.,1
+91,Muntingia Calabura L.,1
+91,Syzygium Cumini (L.) Skeels,1
+92,Artocarpus Heterophyllus Lam.,1
+92,Markhamia Lutea (Benth.) K.Schum,1
+92,Muntingia Calabura L.,1
+92,Pongamia Pinnata (L.) Pierre,8
+92,Swietenia Mahagoni (L.) Jacq.,4
+92,Syzygium Cumini (L.) Skeels,4
+92,Tabebuia Rosea (Bertol) Dc.,2
+93,Delonix Regia (Bojer Ex Hook.) Raf.,2
+93,Ficus Benghalensis L.,1
+93,Ficus Religiosa L.,2
+93,Markhamia Lutea (Benth.) K.Schum,1
+93,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,2
+93,Pongamia Pinnata (L.) Pierre,3
+93,Roystonea Regia (H.B.K) O. F. Cook,2
+93,Saraca Asoca (Roxb.) De Wilde,1
+93,Swietenia Mahagoni (L.) Jacq.,6
+93,Syzygium Cumini (L.) Skeels,1
+93,Tabebuia Rosea (Bertol) Dc.,4
+93,Terminalia Catappa L,3
+93,Thespesia Populnea,1
+94,Acacia Auriculiformis Cunn. Ex Benth,1
+94,Acacia Catechu (L. F.) Wild.,1
+94,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,1
+94,Anacardium Occidentale L.,1
+94,Artocarpus Heterophyllus Lam.,7
+94,Artocarpus Hirsutus Lam.,1
+94,Averrhoa Carambola L.,7
+94,Azadirachta Indica A. Juss.,5
+94,Bauhinia Galpinii N.E. Br.,1
+94,Bauhinia Purpurea L.,3
+94,Bauhinia Variegata L.,7
+94,Calamus Prasinus Lak. & Renuka,1
+94,Cassia Fistula,3
+94,Cassia Fistula L.,1
+94,Ceiba Pentandra (L.) Gaertn.,1
+94,Ceiba Speciosa (A. St. Hil.) Ravenna,1
+94,Cocos Nucifera L.,3
+94,Cordia Wallichii G. Don,1
+94,Crescentia Cujete L.,1
+94,Enterolobium Contortisiliqum (Vell.),2
+94,Eucalyptus Tereticornis Sm.,52
+94,Ficus Benghalensis L.,1
+94,Ficus Infectoria Sensu Roxb. – Type 1,1
+94,Ficus Pandurata Hance,1
+94,Ficus Racemosa L.,163
+94,Ficus Religiosa L.,8
+94,Filicium Decipiens (Wt. & Arn.),1
+94,Grevillea Robusta Cunn. Ex R. Br.,2
+94,Jacaranda Acutifolia Humb. & Bonp,1
+94,Joannesia Princeps Vell,3
+94,Lepisanthes Tetraphylla (Vahl) Radlk.,1
+94,Mangifera Indica L.,6
+94,Markhamia Lutea (Benth.) K.Schum,1
+94,Michelia Champaca L,2
+94,Muntingia Calabura L.,7
+94,Others,99
+94,Parkinsonia Aculeata L,2
+94,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,29
+94,Persea Macrantha (Nees) Kosterm,13
+94,Phoenix Rupicola T. Anders,1
+94,Phyllanthus Polyphykkus Wild,93
+94,Plumaria alba,2
+94,Plumeria Rubra L. Forma Tricolor,2
+94,Pongamia Pinnata (L.) Pierre,196
+94,Psidium Guajava L.,1
+94,Roystonea Regia (H.B.K) O. F. Cook,30
+94,Samanea Saman (Jacq.) Merr.,5
+94,Saraca Asoca (Roxb.) De Wilde,3
+94,Shorea Roxburghii G. Don,1
+94,Spathodea Campanulata P. Beauv,39
+94,Streblus Asper Lour,1
+94,Swietenia Mahagoni (L.) Jacq.,293
+94,Syzygium Cumini (L.) Skeels,161
+94,Tabebuia Chrysotricha (Mart. Ex Dc.) Standl,9
+94,Tabebuia Impetiginosa (Mart. Ex Dc.) Standl.,5
+94,Tabebuia Rosea (Bertol) Dc.,18
+94,Tamarindus Indica L.,8
+94,Terminalia Arjuna (Roxb. Ex Dc.) Wight & Arn.,80
+94,Terminalia Catappa L,170
+94,Thespesia Populnea,2
+94,Tipuana Tipu (Benth.) Kuntze,1
+94,Toona Ciliata M. Roeme,135
+103,Delonix Regia (Bojer Ex Hook.) Raf.,1
+103,Others,2
+103,Pongamia Pinnata (L.) Pierre,14
+103,Samanea Saman (Jacq.) Merr.,2
+103,Swietenia Mahagoni (L.) Jacq.,13
+103,Tabebuia Rosea (Bertol) Dc.,4
+115,Emblica Officinalis Gaertn.,1
+115,Pongamia Pinnata (L.) Pierre,1
+117,Alstonia Macrophylla Wall. Ex Dc.,1
+117,Annona Squamosa L,1
+117,Artocarpus Heterophyllus Lam.,2
+117,Averrhoa Carambola L.,16
+117,Azadirachta Indica A. Juss.,1
+117,Bauhinia Blakeana Dunn,1
+117,Bauhinia Galpinii N.E. Br.,1
+117,Bauhinia Purpurea L.,2
+117,Bauhinia Racemosa Lam,4
+117,Caryota Mitis Lour.,1
+117,Cocos Nucifera L.,6
+117,Delonix Regia (Bojer Ex Hook.) Raf.,8
+117,Eucalyptus Tereticornis Sm.,1
+117,Ficus Benghalensis L.,1
+117,Ficus Benjamina L.,47
+117,Ficus Racemosa L.,2
+117,Ficus Religiosa L.,4
+117,Gmelina Arborea Roxb.,1
+117,Grevillea Robusta Cunn. Ex R. Br.,12
+117,Leucaena Latisiliqua (L.) Gillis,20
+117,Majidea Zanguebarica Oliv.,4
+117,Markhamia Lutea (Benth.) K.Schum,25
+117,Michelia Champaca L,5
+117,Michelia Longifolia Blume,1
+117,Millingtonia Hortensis L.F,3
+117,Muntingia Calabura L.,12
+117,Others,17
+117,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,17
+117,Phoenix Sylvestris (L.) Roxb.,2
+117,Pongamia Pinnata (L.) Pierre,107
+117,Pritchardia Pacifica Seem. & H. Wendl.,1
+117,Prosopis Juliflora (Sw.) Dc.,4
+117,Samanea Saman (Jacq.) Merr.,21
+117,Saraca Asoca (Roxb.) De Wilde,4
+117,Simarouba Glauca Dc.,1
+117,Swietenia Mahagoni (L.) Jacq.,137
+117,Syzygium Cumini (L.) Skeels,17
+117,Tabebuia Rosea (Bertol) Dc.,19
+117,Talauma Mutabilis Bl.,1
+117,Techoma Stans,1
+117,Terminalia Catappa L,18
+117,Thespesia Populnea,14
+117,Wrightia Tinctoria (Roxb.) R. Br,1
+118,Cocos Nucifera L.,3
+118,Eucalyptus Tereticornis Sm.,1
+118,Eugenia Uniflora L,1
+118,Mangifera Indica L.,1
+118,Pongamia Pinnata (L.) Pierre,7
+118,Samanea Saman (Jacq.) Merr.,1
+118,Swietenia Mahagoni (L.) Jacq.,3
+118,Terminalia Catappa L,1
+119,Alstonia Macrophylla Wall. Ex Dc.,10
+119,Annona Squamosa L,7
+119,Artocarpus Heterophyllus Lam.,8
+119,Azadirachta Indica A. Juss.,12
+119,Bauhinia Racemosa Lam,9
+119,Bauhinia Variegata L.,1
+119,Broussonetia Papyrifera Vent,8
+119,Cassia Moschata Kunth,1
+119,Cirtus Grandis (L.) Osbeck,5
+119,Cochlospermum Religiosum (L.),1
+119,Cocos Nucifera L.,28
+119,Delonix Regia (Bojer Ex Hook.) Raf.,21
+119,Eucalyptus Tereticornis Sm.,4
+119,Eugenia Uniflora L,8
+119,Ficus Benghalensis L.,3
+119,Ficus Benjamina L.,5
+119,Ficus Racemosa L.,3
+119,Ficus Religiosa L.,8
+119,Grevillea Robusta Cunn. Ex R. Br.,61
+119,Leucaena Latisiliqua (L.) Gillis,5
+119,Mangifera Indica L.,19
+119,Markhamia Lutea (Benth.) K.Schum,112
+119,Michelia Longifolia Blume,17
+119,Millingtonia Hortensis L.F,1
+119,Moringa Oleifera Lam.,27
+119,Others,36
+119,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,32
+119,Plumeria Rubra L. Forma Tricolor,1
+119,Pongamia Pinnata (L.) Pierre,201
+119,Psidium Guajava L.,3
+119,Pterocarpus Marsupium Roxb,1
+119,Roystonea Regia (H.B.K) O. F. Cook,4
+119,Samanea Saman (Jacq.) Merr.,148
+119,Santalum Album L,1
+119,Saraca Asoca (Roxb.) De Wilde,32
+119,Swietenia Mahagoni (L.) Jacq.,93
+119,Syzygium Cumini (L.) Skeels,12
+119,Tabebuia Rosea (Bertol) Dc.,19
+119,Tamarindus Indica L.,1
+119,Terminalia Catappa L,33
+119,Thespesia Populnea,47
+120,Acacia Auriculiformis Cunn. Ex Benth,2
+120,Ailanthus Triphysa (Dennst.) Alston,1
+120,Alstonia Macrophylla Wall. Ex Dc.,16
+120,Annona Squamosa L,8
+120,Araucaria Columnaris,3
+120,Artocarpus Altitilis (Park.) Fosb.,1
+120,Artocarpus Heterophyllus Lam.,17
+120,Averrhoa Carambola L.,13
+120,Azadirachta Indica A. Juss.,48
+120,Bauhinia Blakeana Dunn,1
+120,Bauhinia Forficata,2
+120,Bauhinia Galpinii N.E. Br.,2
+120,Bauhinia Purpurea L.,44
+120,Bauhinia Racemosa Lam,100
+120,Bauhinia Variegata L.,5
+120,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,2
+120,Caryota Mitis Lour.,77
+120,Cassia Javanica L.,29
+120,Ceiba Pentandra (L.) Gaertn.,5
+120,Ceiba Speciosa (A. St. Hil.) Ravenna,3
+120,Cocos Nucifera L.,42
+120,Cordia Wallichii G. Don,2
+120,Dalbergia Sissoo Roxb.,2
+120,Delonix Regia (Bojer Ex Hook.) Raf.,93
+120,Erythrina Umbrosa Kunth,1
+120,Eucalyptus Tereticornis Sm.,6
+120,Eugenia Uniflora L,27
+120,Ficus Benghalensis L.,11
+120,Ficus Benjamina L.,78
+120,Ficus Pandurata Hance,1
+120,Ficus Racemosa L.,26
+120,Ficus Religiosa L.,35
+120,Filicium Decipiens (Wt. & Arn.),1
+120,Grevillea Robusta Cunn. Ex R. Br.,152
+120,Grewia Asiatica Sensu Masters,1
+120,Leucaena Latisiliqua (L.) Gillis,21
+120,Litchi Chinensis Sonn.,4
+120,Lonchocarpus Minimiflorus J.D. Smith,1
+120,Majidea Zanguebarica Oliv.,4
+120,Mangifera Indica L.,45
+120,Markhamia Lutea (Benth.) K.Schum,579
+120,Michelia Champaca L,14
+120,Michelia Longifolia Blume,112
+120,Millingtonia Hortensis L.F,38
+120,Moringa Oleifera Lam.,23
+120,Muntingia Calabura L.,16
+120,Others,92
+120,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,185
+120,Phoenix Sylvestris (L.) Roxb.,3
+120,Phyllanthus Polyphykkus Wild,2
+120,Plumeria Rubra L. Forma Tricolor,21
+120,Polyalthia Longifolia (Sonn.) Thwaites,1
+120,Pongamia Pinnata (L.) Pierre,447
+120,Prosopis Juliflora (Sw.) Dc.,1
+120,Psidium Guajava L.,2
+120,Pterocarpus Marsupium Roxb,2
+120,Pterospermum Acerifolium (L.) Wild,5
+120,Roystonea Regia (H.B.K) O. F. Cook,197
+120,Samanea Saman (Jacq.) Merr.,160
+120,Santalum Album L,3
+120,Saraca Asoca (Roxb.) De Wilde,191
+120,Shorea Roxburghii G. Don,1
+120,Simarouba Glauca Dc.,10
+120,Swietenia Mahagoni (L.) Jacq.,275
+120,Syzygium Cumini (L.) Skeels,65
+120,Syzygium Nervosum Dc,1
+120,Tabebuia Chrysotricha (Mart. Ex Dc.) Standl,1
+120,Tabebuia Impetiginosa (Mart. Ex Dc.) Standl.,25
+120,Tabebuia Pallida (Lindley) Miers,1
+120,Tabebuia Rosea (Bertol) Dc.,239
+120,Techoma Stans,1
+120,Terminalia Catappa L,126
+120,Thespesia Populnea,77
+120,Wrightia Tinctoria (Roxb.) R. Br,1
+121,Alstonia Macrophylla Wall. Ex Dc.,15
+121,Annona Squamosa L,10
+121,Araucaria Columnaris,19
+121,Artocarpus Heterophyllus Lam.,31
+121,Averrhoa Carambola L.,16
+121,Azadirachta Indica A. Juss.,53
+121,Bauhinia Blakeana Dunn,3
+121,Bauhinia Forficata,2
+121,Bauhinia Galpinii N.E. Br.,1
+121,Bauhinia Purpurea L.,71
+121,Bauhinia Racemosa Lam,51
+121,Bauhinia Tomentosa L.,2
+121,Bauhinia Variegata L.,27
+121,Bauhinia Variegata L. Var. Candida Voigt.,1
+121,Caesalpinia Ferrea Mart. Ex Tul.,2
+121,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,2
+121,Caryota Mitis Lour.,67
+121,Cassia Grandis L.F,5
+121,Cassia Javanica L.,20
+121,Ceiba Speciosa (A. St. Hil.) Ravenna,9
+121,Cocos Nucifera L.,72
+121,Couroupita Guianensis Abul.,6
+121,Dalbergia Latifolia Roxb.,1
+121,Dalbergia Sissoo Roxb.,4
+121,Delonix Regia (Bojer Ex Hook.) Raf.,360
+121,Erythrina Umbrosa Kunth,8
+121,Eucalyptus Tereticornis Sm.,17
+121,Eugenia Uniflora L,5
+121,Ficus Benghalensis L.,15
+121,Ficus Benjamina L.,94
+121,Ficus Racemosa L.,19
+121,Ficus Religiosa L.,17
+121,Gliricidia Sepium,19
+121,Gmelina Arborea Roxb.,7
+121,Grevillea Robusta Cunn. Ex R. Br.,175
+121,Leucaena Latisiliqua (L.) Gillis,47
+121,Madhuca Indica J. Gmelin,1
+121,Majidea Zanguebarica Oliv.,5
+121,Mangifera Indica L.,55
+121,Markhamia Lutea (Benth.) K.Schum,664
+121,Melaleuca Bracteate F. Muell.,2
+121,Michelia Champaca L,24
+121,Michelia Longifolia Blume,87
+121,Millingtonia Hortensis L.F,99
+121,Moringa Oleifera Lam.,7
+121,Muntingia Calabura L.,38
+121,Neolomarckia,9
+121,Others,111
+121,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,188
+121,Phoenix Sylvestris (L.) Roxb.,8
+121,Plumeria Rubra L. Forma Tricolor,41
+121,Polyalthia Longifolia (Sonn.) Thwaites,2
+121,Pongamia Pinnata (L.) Pierre,419
+121,Pritchardia Pacifica Seem. & H. Wendl.,4
+121,Prosopis Juliflora (Sw.) Dc.,5
+121,Psidium Guajava L.,18
+121,Pterocarpus Marsupium Roxb,1
+121,Pterospermum Acerifolium (L.) Wild,2
+121,Roystonea Regia (H.B.K) O. F. Cook,88
+121,Samanea Saman (Jacq.) Merr.,166
+121,Saraca Asoca (Roxb.) De Wilde,254
+121,Simarouba Glauca Dc.,24
+121,Swietenia Mahagoni (L.) Jacq.,285
+121,Syzygium Cumini (L.) Skeels,74
+121,Syzygium Laetum (Buch. -Ham.),1
+121,Syzygium Nervosum Dc,1
+121,Tabebuia Impetiginosa (Mart. Ex Dc.) Standl.,3
+121,Tabebuia Rosea (Bertol) Dc.,234
+121,Techoma Stans,7
+121,Tectona Grandis L.F,5
+121,Terminalia Catappa L,98
+121,Thespesia Populnea,61
+121,Thevetia Peruviana (Pers.) Merr.,1
+121,Tipuana Tipu (Benth.) Kuntze,1
+121,Wrightia Tinctoria (Roxb.) R. Br,2
+122,Acacia Auriculiformis Cunn. Ex Benth,1
+122,Aegle Marmelos (L.) Corr. Serr.,1
+122,Alstonia Macrophylla Wall. Ex Dc.,7
+122,Annona Squamosa L,17
+122,Araucaria Columnaris,14
+122,Artocarpus Heterophyllus Lam.,23
+122,Averrhoa Carambola L.,18
+122,Azadirachta Indica A. Juss.,51
+122,Barringtonia Asiatica (L.) Kurz,1
+122,Bauhinia Galpinii N.E. Br.,12
+122,Bauhinia Purpurea L.,37
+122,Bauhinia Racemosa Lam,47
+122,Bauhinia Variegata L.,5
+122,Bauhinia Variegata L. Var. Candida Voigt.,1
+122,Caesalpinia Ferrea Mart. Ex Tul.,4
+122,Caryota Mitis Lour.,28
+122,Cassia Grandis L.F,3
+122,Ceiba Speciosa (A. St. Hil.) Ravenna,2
+122,Cirtus Grandis (L.) Osbeck,2
+122,Cocos Nucifera L.,34
+122,Couroupita Guianensis Abul.,3
+122,Dalbergia Sissoo Roxb.,1
+122,Delonix Regia (Bojer Ex Hook.) Raf.,123
+122,Emblica Officinalis Gaertn.,5
+122,Erythrina Umbrosa Kunth,3
+122,Eucalyptus Tereticornis Sm.,5
+122,Eugenia Uniflora L,5
+122,Ficus Benghalensis L.,17
+122,Ficus Benjamina L.,84
+122,Ficus Racemosa L.,19
+122,Ficus Religiosa L.,14
+122,Filicium Decipiens (Wt. & Arn.),5
+122,Gliricidia Sepium,2
+122,Gmelina Arborea Roxb.,2
+122,Grevillea Robusta Cunn. Ex R. Br.,124
+122,Grewia Asiatica Sensu Masters,1
+122,Heritiera Littoralis Dyrand.,1
+122,Kigelia Africana (Lam.) Benth,1
+122,Leucaena Latisiliqua (L.) Gillis,29
+122,Litchi Chinensis Sonn.,2
+122,Majidea Zanguebarica Oliv.,11
+122,Mangifera Indica L.,44
+122,Markhamia Lutea (Benth.) K.Schum,424
+122,Michelia Champaca L,18
+122,Michelia Longifolia Blume,64
+122,Millingtonia Hortensis L.F,28
+122,Muntingia Calabura L.,20
+122,Neolomarckia,3
+122,Others,117
+122,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,68
+122,Phoenix Sylvestris (L.) Roxb.,9
+122,Phyllanthus Polyphykkus Wild,2
+122,Plumeria Rubra L. Forma Tricolor,34
+122,Pongamia Pinnata (L.) Pierre,479
+122,Pritchardia Pacifica Seem. & H. Wendl.,10
+122,Prosopis Juliflora (Sw.) Dc.,8
+122,Psidium Guajava L.,15
+122,Pterospermum Acerifolium (L.) Wild,1
+122,Roystonea Regia (H.B.K) O. F. Cook,20
+122,Samanea Saman (Jacq.) Merr.,87
+122,Santalum Album L,7
+122,Sapium Sebiferum (L.) Roxb.,2
+122,Saraca Asoca (Roxb.) De Wilde,111
+122,Simarouba Glauca Dc.,12
+122,Swietenia Mahagoni (L.) Jacq.,284
+122,Syzygium Cumini (L.) Skeels,57
+122,Syzygium Nervosum Dc,2
+122,Tabebuia Impetiginosa (Mart. Ex Dc.) Standl.,1
+122,Tabebuia Rosea (Bertol) Dc.,182
+122,Tamarindus Indica L.,1
+122,Techoma Stans,3
+122,Tectona Grandis L.F,17
+122,Terminalia Catappa L,98
+122,Thespesia Populnea,36
+122,Wrightia Tinctoria (Roxb.) R. Br,2
+123,Acacia Auriculiformis Cunn. Ex Benth,1
+123,Albizia Lebbeck (L.) Benth.,2
+123,Annona Reticulata L.,1
+123,Annona Squamosa L,2
+123,Araucaria Columnaris,1
+123,Artocarpus Heterophyllus Lam.,9
+123,Azadirachta Indica A. Juss.,13
+123,Bauhinia Blakeana Dunn,2
+123,Bauhinia Purpurea L.,8
+123,Bauhinia Racemosa Lam,7
+123,Broussonetia Luzonica Bureau,1
+123,Caryota Mitis Lour.,9
+123,Ceiba Speciosa (A. St. Hil.) Ravenna,4
+123,Cirtus Grandis (L.) Osbeck,1
+123,Cochlospermum Religiosum (L.),1
+123,Cocos Nucifera L.,38
+123,Couroupita Guianensis Abul.,3
+123,Delonix Regia (Bojer Ex Hook.) Raf.,50
+123,Emblica Officinalis Gaertn.,3
+123,Erythrina Umbrosa Kunth,2
+123,Eucalyptus Tereticornis Sm.,5
+123,Eugenia Uniflora L,3
+123,Ficus Benghalensis L.,7
+123,Ficus Benjamina L.,41
+123,Ficus Racemosa L.,12
+123,Ficus Religiosa L.,11
+123,Filicium Decipiens (Wt. & Arn.),2
+123,Gliricidia Sepium,1
+123,Grevillea Robusta Cunn. Ex R. Br.,21
+123,Leucaena Latisiliqua (L.) Gillis,26
+123,Majidea Zanguebarica Oliv.,5
+123,Mangifera Indica L.,17
+123,Markhamia Lutea (Benth.) K.Schum,80
+123,Melia Dubia Cav,2
+123,Michelia Champaca L,1
+123,Michelia Longifolia Blume,16
+123,Millingtonia Hortensis L.F,19
+123,Muntingia Calabura L.,21
+123,Neolomarckia,10
+123,Others,41
+123,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,23
+123,Phyllanthus Polyphykkus Wild,3
+123,Plumeria Rubra L. Forma Tricolor,2
+123,Pongamia Pinnata (L.) Pierre,189
+123,Pritchardia Pacifica Seem. & H. Wendl.,2
+123,Prosopis Juliflora (Sw.) Dc.,8
+123,Psidium Guajava L.,3
+123,Roystonea Regia (H.B.K) O. F. Cook,1
+123,Samanea Saman (Jacq.) Merr.,21
+123,Saraca Asoca (Roxb.) De Wilde,35
+123,Simarouba Glauca Dc.,1
+123,Swietenia Mahagoni (L.) Jacq.,75
+123,Syzygium Cumini (L.) Skeels,28
+123,Tabebuia Pallida (Lindley) Miers,2
+123,Tabebuia Rosea (Bertol) Dc.,79
+123,Talauma Mutabilis Bl.,1
+123,Techoma Stans,1
+123,Tectona Grandis L.F,1
+123,Terminalia Catappa L,68
+123,Thespesia Populnea,53
+123,Thevetia Peruviana (Pers.) Merr.,1
+123,Wrightia Tinctoria (Roxb.) R. Br,4
+124,Alstonia Macrophylla Wall. Ex Dc.,7
+124,Annona Squamosa L,2
+124,Araucaria Columnaris,4
+124,Artocarpus Heterophyllus Lam.,14
+124,Azadirachta Indica A. Juss.,18
+124,Bauhinia Purpurea L.,20
+124,Bauhinia Racemosa Lam,18
+124,Bauhinia Variegata L.,11
+124,Caesalpinia Ferrea Mart. Ex Tul.,2
+124,Caryota Mitis Lour.,28
+124,Ceiba Speciosa (A. St. Hil.) Ravenna,10
+124,Cirtus Grandis (L.) Osbeck,2
+124,Cocos Nucifera L.,56
+124,Cordia Wallichii G. Don,1
+124,Couroupita Guianensis Abul.,6
+124,Dalbergia Sissoo Roxb.,1
+124,Delonix Regia (Bojer Ex Hook.) Raf.,58
+124,Erythrina Umbrosa Kunth,8
+124,Eucalyptus Tereticornis Sm.,8
+124,Ficus Benghalensis L.,13
+124,Ficus Benjamina L.,39
+124,Ficus Racemosa L.,9
+124,Ficus Religiosa L.,19
+124,Garcinia Indica (Thouars) Choisy,1
+124,Gliricidia Sepium,1
+124,Gmelina Arborea Roxb.,8
+124,Grevillea Robusta Cunn. Ex R. Br.,20
+124,Kigelia Africana (Lam.) Benth,5
+124,Leucaena Latisiliqua (L.) Gillis,26
+124,Litchi Chinensis Sonn.,2
+124,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,4
+124,Majidea Zanguebarica Oliv.,8
+124,Mangifera Indica L.,23
+124,Markhamia Lutea (Benth.) K.Schum,189
+124,Michelia Champaca L,5
+124,Michelia Longifolia Blume,41
+124,Millingtonia Hortensis L.F,42
+124,Muntingia Calabura L.,29
+124,Neolomarckia,32
+124,Others,54
+124,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,54
+124,Phoenix Sylvestris (L.) Roxb.,4
+124,Pithecellobium Dulce (Roxb.) Benth.,1
+124,Plumeria Rubra L. Forma Acutifolia,2
+124,Plumeria Rubra L. Forma Tricolor,12
+124,Pongamia Pinnata (L.) Pierre,223
+124,Pritchardia Pacifica Seem. & H. Wendl.,6
+124,Prosopis Juliflora (Sw.) Dc.,2
+124,Psidium Guajava L.,9
+124,Pterocarpus Marsupium Roxb,1
+124,Roystonea Regia (H.B.K) O. F. Cook,99
+124,Samanea Saman (Jacq.) Merr.,74
+124,Sapium Sebiferum (L.) Roxb.,1
+124,Saraca Asoca (Roxb.) De Wilde,88
+124,Shorea Roxburghii G. Don,1
+124,Simarouba Glauca Dc.,9
+124,Swietenia Mahagoni (L.) Jacq.,62
+124,Syzygium Cumini (L.) Skeels,43
+124,Tabebuia Rosea (Bertol) Dc.,102
+124,Tamarindus Indica L.,1
+124,Techoma Stans,1
+124,Terminalia Catappa L,60
+124,Thespesia Populnea,18
+125,Annona Squamosa L,6
+125,Araucaria Columnaris,7
+125,Artocarpus Heterophyllus Lam.,7
+125,Azadirachta Indica A. Juss.,25
+125,Barringtonia Asiatica (L.) Kurz,1
+125,Bauhinia Purpurea L.,14
+125,Bauhinia Racemosa Lam,14
+125,Bauhinia Variegata L.,10
+125,Bauhinia Variegata L. Var. Candida Voigt.,1
+125,Caesalpinia Ferrea Mart. Ex Tul.,1
+125,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,3
+125,Ceiba Speciosa (A. St. Hil.) Ravenna,1
+125,Cocos Nucifera L.,10
+125,Dalbergia Sissoo Roxb.,2
+125,Delonix Regia (Bojer Ex Hook.) Raf.,23
+125,Emblica Officinalis Gaertn.,1
+125,Erythrina Umbrosa Kunth,2
+125,Eucalyptus Tereticornis Sm.,1
+125,Ficus Benghalensis L.,1
+125,Ficus Benjamina L.,16
+125,Ficus Racemosa L.,17
+125,Ficus Religiosa L.,14
+125,Gliricidia Sepium,1
+125,Gmelina Arborea Roxb.,1
+125,Grevillea Robusta Cunn. Ex R. Br.,29
+125,Heritiera Littoralis Dyrand.,2
+125,Leucaena Latisiliqua (L.) Gillis,4
+125,Litchi Chinensis Sonn.,3
+125,Majidea Zanguebarica Oliv.,13
+125,Mangifera Indica L.,8
+125,Markhamia Lutea (Benth.) K.Schum,123
+125,Melaleuca Bracteate F. Muell.,3
+125,Michelia Champaca L,11
+125,Michelia Longifolia Blume,33
+125,Millingtonia Hortensis L.F,17
+125,Muntingia Calabura L.,34
+125,Neolomarckia,1
+125,Others,34
+125,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,42
+125,Phoenix Sylvestris (L.) Roxb.,4
+125,Plumeria Rubra L. Forma Acutifolia,2
+125,Plumeria Rubra L. Forma Tricolor,3
+125,Pongamia Pinnata (L.) Pierre,255
+125,Prosopis Juliflora (Sw.) Dc.,1
+125,Psidium Guajava L.,8
+125,Roystonea Regia (H.B.K) O. F. Cook,41
+125,Samanea Saman (Jacq.) Merr.,36
+125,Saraca Asoca (Roxb.) De Wilde,45
+125,Simarouba Glauca Dc.,9
+125,Swietenia Mahagoni (L.) Jacq.,66
+125,Syzygium Cumini (L.) Skeels,23
+125,Tabebuia Rosea (Bertol) Dc.,86
+125,Techoma Stans,1
+125,Tectona Grandis L.F,1
+125,Terminalia Catappa L,76
+125,Thespesia Populnea,20
+129,Acacia Auriculiformis Cunn. Ex Benth,8
+129,Alstonia Macrophylla Wall. Ex Dc.,1
+129,Araucaria Columnaris,1
+129,Artocarpus Heterophyllus Lam.,14
+129,Azadirachta Indica A. Juss.,3
+129,Bauhinia Racemosa Lam,3
+129,Broussonetia Papyrifera Vent,11
+129,Caryota Mitis Lour.,1
+129,Cassia Fistula L.,1
+129,Cassia Grandis L.F,1
+129,Cassia Spectabilis Dc.,2
+129,Cirtus Grandis (L.) Osbeck,2
+129,Cocos Nucifera L.,7
+129,Crescentia Cujete L.,1
+129,Delonix Regia (Bojer Ex Hook.) Raf.,5
+129,Dillenia Indica L,1
+129,Dypsis Lutescens (Wendl.) Beentze & Dransfield,2
+129,Eriobotrya Japonica (Thunb.) Lindley,1
+129,Erythroxylum Monogynum Roxb.,1
+129,Ficus Benghalensis L.,13
+129,Ficus Racemosa L.,12
+129,Ficus Religiosa L.,11
+129,Grevillea Robusta Cunn. Ex R. Br.,2
+129,Hibiscus Tiliaceus L,1
+129,Kigelia Africana (Lam.) Benth,1
+129,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,39
+129,Lonchocarpus Minimiflorus J.D. Smith,1
+129,Mangifera Indica L.,20
+129,Markhamia Lutea (Benth.) K.Schum,11
+129,Melaleuca Bracteate F. Muell.,1
+129,Millingtonia Hortensis L.F,1
+129,Mitragyna Parviflora (Roxb.) Korth.,1
+129,Morus Alba L.,2
+129,Muntingia Calabura L.,6
+129,Parkia Biglandulosa Wt. & Arn.,1
+129,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,29
+129,Pongamia Pinnata (L.) Pierre,31
+129,Psidium Guajava L.,2
+129,Samanea Saman (Jacq.) Merr.,10
+129,Saraca Asoca (Roxb.) De Wilde,47
+129,Sesbania Grandiflora (L.) Poiret,4
+129,Swietenia Macrophylla King,2
+129,Swietenia Mahagoni (L.) Jacq.,66
+129,Syzygium Cumini (L.) Skeels,5
+129,Tamarindus Indica L.,2
+129,Terminalia Arjuna (Roxb. Ex Dc.) Wight & Arn.,2
+129,Terminalia Catappa L,16
+129,Terminalia Crenulata Roth,1
+129,Thespesia Populnea,4
+129,Wrightia Tinctoria (Roxb.) R. Br,4
+131,Aleurites Moluccana (L.) Wild.,1
+131,Alstonia Macrophylla Wall. Ex Dc.,26
+131,Annona Squamosa L,8
+131,Artocarpus Heterophyllus Lam.,2
+131,Azadirachta Indica A. Juss.,10
+131,Bauhinia Racemosa Lam,37
+131,Broussonetia Papyrifera Vent,7
+131,Caesalpinia Ferrea Mart. Ex Tul.,3
+131,Ceiba Pentandra (L.) Gaertn.,1
+131,Chukrasia Tabularis A. Juss.,1
+131,Cirtus Grandis (L.) Osbeck,1
+131,Cocos Nucifera L.,8
+131,Cordia Wallichii G. Don,3
+131,Cyrtostachys Renda Blume,1
+131,Delonix Regia (Bojer Ex Hook.) Raf.,121
+131,Eugenia Uniflora L,16
+131,Ficus Benghalensis L.,8
+131,Ficus Benjamina L.,41
+131,Ficus Racemosa L.,40
+131,Ficus Religiosa L.,29
+131,Filicium Decipiens (Wt. & Arn.),1
+131,Gliricidia Sepium,1
+131,Gmelina Arborea Roxb.,40
+131,Grevillea Robusta Cunn. Ex R. Br.,25
+131,Heritiera Littoralis Dyrand.,9
+131,Kigelia Africana (Lam.) Benth,1
+131,Leucaena Latisiliqua (L.) Gillis,22
+131,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,10
+131,Mangifera Indica L.,22
+131,Markhamia Lutea (Benth.) K.Schum,194
+131,Michelia Longifolia Blume,20
+131,Millingtonia Hortensis L.F,108
+131,Mimusops Elengi L.,1
+131,Moringa Oleifera Lam.,24
+131,Neolomarckia,1
+131,Others,40
+131,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,61
+131,Phoenix Rupicola T. Anders,1
+131,Plumeria Rubra L. Forma Tricolor,1
+131,Polyalthia Longifolia (Sonn.) Thwaites,2
+131,Pongamia Pinnata (L.) Pierre,167
+131,Psidium Guajava L.,3
+131,Roystonea Regia (H.B.K) O. F. Cook,34
+131,Samanea Saman (Jacq.) Merr.,47
+131,Santalum Album L,3
+131,Saraca Asoca (Roxb.) De Wilde,92
+131,Spathodea Campanulata P. Beauv,15
+131,Swietenia Mahagoni (L.) Jacq.,167
+131,Syzygium Cumini (L.) Skeels,27
+131,Syzygium Nervosum Dc,1
+131,Tabebuia Impetiginosa (Mart. Ex Dc.) Standl.,17
+131,Tabebuia Pallida (Lindley) Miers,1
+131,Tabebuia Rosea (Bertol) Dc.,123
+131,Talauma Mutabilis Bl.,1
+131,Tamarindus Indica L.,3
+131,Tectona Grandis L.F,1
+131,Terminalia Catappa L,49
+131,Thespesia Populnea,137
+131,Thevetia Peruviana (Pers.) Merr.,2
+137,Ficus Racemosa L.,1
+137,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,1
+137,Spathodea Campanulata P. Beauv,1
+137,Swietenia Mahagoni (L.) Jacq.,1
+137,Thespesia Populnea,1
+146,Pongamia Pinnata (L.) Pierre,1
+146,Terminalia Catappa L,1
+148,Others,1
+150,Pongamia Pinnata (L.) Pierre,1
+154,Swietenia Mahagoni (L.) Jacq.,1
+162,Acacia Auriculiformis Cunn. Ex Benth,3
+162,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,3
+162,Albizia Odoratissima (L.F.) Bent,1
+162,Anacardium Occidentale L.,1
+162,Annona Squamosa L,26
+162,Artocarpus Altitilis (Park.) Fosb.,3
+162,Artocarpus Heterophyllus Lam.,8
+162,Artocarpus Hirsutus Lam.,3
+162,Azadirachta Indica A. Juss.,14
+162,Bauhinia Purpurea L.,3
+162,Bauhinia Racemosa Lam,1
+162,Bauhinia Variegata L.,3
+162,Broussonetia Luzonica Bureau,1
+162,Broussonetia Papyrifera Vent,1
+162,Calamus Prasinus Lak. & Renuka,6
+162,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,4
+162,Calophyllum Inophyllum L,1
+162,Cassia Roxburghii Dc.,7
+162,Casuarina Equisetifolia L.,2
+162,Ceiba Speciosa (A. St. Hil.) Ravenna,4
+162,Cocos Nucifera L.,50
+162,Cordia Wallichii G. Don,1
+162,Couroupita Guianensis Abul.,1
+162,Delonix Regia (Bojer Ex Hook.) Raf.,2
+162,Elaeocarpus Grandis F. Muell.,1
+162,Erythrina Umbrosa Kunth,1
+162,Eucalyptus Tereticornis Sm.,1
+162,Ficus Benghalensis L.,5
+162,Ficus Racemosa L.,13
+162,Filicium Decipiens (Wt. & Arn.),1
+162,Firmiana Colorata (Roxb.) R. Br.,2
+162,Gliricidia Sepium,2
+162,Gmelina Arborea Roxb.,1
+162,Grevillea Robusta Cunn. Ex R. Br.,6
+162,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,35
+162,Lagerstroemia Speciosa (L.) Pers,5
+162,Litchi Chinensis Sonn.,1
+162,Madhuca Indica J. Gmelin,7
+162,Mangifera Indica L.,13
+162,Manihot Glaziovii Muell. -Arg,1
+162,Manilkara Zapota (L.) P. Royen,10
+162,Melia Dubia Cav,1
+162,Michelia Champaca L,2
+162,Muntingia Calabura L.,20
+162,Murraya Koenigii (L.) Spreng.,2
+162,Ochroma Lagopus Sw,9
+162,Others,3
+162,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,9
+162,Pithecellobium Dulce (Roxb.) Benth.,1
+162,Plumeria Rubra L. Forma Acutifolia,4
+162,Pongamia Pinnata (L.) Pierre,108
+162,Pterocarpus Marsupium Roxb,3
+162,Pterospermum Acerifolium (L.) Wild,1
+162,Samanea Saman (Jacq.) Merr.,4
+162,Saraca Asoca (Roxb.) De Wilde,43
+162,Spathodea Campanulata P. Beauv,18
+162,Swietenia Macrophylla King,1
+162,Swietenia Mahagoni (L.) Jacq.,30
+162,Syagrus Romanzoffianum (Cham),1
+162,Syzygium Cumini (L.) Skeels,7
+162,Syzygium Laetum (Buch. -Ham.),1
+162,Syzygium Nervosum Dc,1
+162,Tabebuia Chrysotricha (Mart. Ex Dc.) Standl,1
+162,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,5
+162,Terminalia Catappa L,28
+162,Thespesia Populnea,6
+162,Vitex Altissima L.F,5
+162,Wrightia Tinctoria (Roxb.) R. Br,1
+163,Annona Squamosa L,2
+163,Artocarpus Heterophyllus Lam.,1
+163,Azadirachta Indica A. Juss.,2
+163,Bauhinia Variegata L.,6
+163,Calamus Prasinus Lak. & Renuka,1
+163,Cassia Fistula,1
+163,Cassia Roxburghii Dc.,1
+163,Cedrela Odorata L,1
+163,Centrolobium Microchaete (Mart. Ex Benth.),1
+163,Cocos Nucifera L.,6
+163,Delonix Regia (Bojer Ex Hook.) Raf.,2
+163,Ficus Racemosa L.,2
+163,Firmiana Colorata (Roxb.) R. Br.,1
+163,Grevillea Robusta Cunn. Ex R. Br.,1
+163,Jacaranda Acutifolia Humb. & Bonp,1
+163,Madhuca Indica J. Gmelin,1
+163,Mangifera Indica L.,3
+163,Neolomarckia,1
+163,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,11
+163,Pongamia Pinnata (L.) Pierre,35
+163,Pterocarpus Marsupium Roxb,1
+163,Saraca Asoca (Roxb.) De Wilde,10
+163,Spathodea Campanulata P. Beauv,4
+163,Swietenia Mahagoni (L.) Jacq.,3
+163,Syzygium Cumini (L.) Skeels,1
+163,Syzygium Laetum (Buch. -Ham.),1
+163,Terminalia Catappa L,24
+163,Wrightia Tinctoria (Roxb.) R. Br,1
+164,Acacia Auriculiformis Cunn. Ex Benth,6
+164,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,4
+164,Aegle Marmelos (L.) Corr. Serr.,2
+164,Ailanthus Triphysa (Dennst.) Alston,2
+164,Albizia Odoratissima (L.F.) Bent,1
+164,Alstonia Scholaris (L.) R. Br.,1
+164,Anacardium Occidentale L.,2
+164,Annona Squamosa L,16
+164,Artocarpus Heterophyllus Lam.,22
+164,Artocarpus Hirsutus Lam.,4
+164,Azadirachta Indica A. Juss.,37
+164,Barringtonia Acutangula (L.),1
+164,Bauhinia Purpurea L.,1
+164,Bauhinia Racemosa Lam,3
+164,Bauhinia Variegata L.,18
+164,Bombax Malabaricum Dc,6
+164,Brassaia Actinophylla Endl. Var. Capitata Clarke,1
+164,Broussonetia Luzonica Bureau,6
+164,Broussonetia Papyrifera Vent,1
+164,Calophyllum Inophyllum L,1
+164,Cassia Grandis L.F,1
+164,Cassia Moschata Kunth,1
+164,Cassia Roxburghii Dc.,32
+164,Cassia Spectabilis Dc.,1
+164,Cedrela Odorata L,4
+164,Ceiba Speciosa (A. St. Hil.) Ravenna,14
+164,Cocos Nucifera L.,122
+164,Cordia Wallichii G. Don,2
+164,Delonix Regia (Bojer Ex Hook.) Raf.,3
+164,Diospyros Ebenum Koenig.,1
+164,Enterolobium Contortisiliqum (Vell.),1
+164,Erythrina Umbrosa Kunth,2
+164,Erythroxylum Monogynum Roxb.,3
+164,Eucalyptus Tereticornis Sm.,22
+164,Ficus Benghalensis L.,13
+164,Ficus Racemosa L.,18
+164,Filicium Decipiens (Wt. & Arn.),1
+164,Firmiana Colorata (Roxb.) R. Br.,1
+164,Garcinia Indica (Thouars) Choisy,1
+164,Gliricidia Sepium,2
+164,Gmelina Arborea Roxb.,1
+164,Grevillea Robusta Cunn. Ex R. Br.,55
+164,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,295
+164,Jacaranda Acutifolia Humb. & Bonp,1
+164,Lagerstroemia Speciosa (L.) Pers,16
+164,Madhuca Indica J. Gmelin,11
+164,Mangifera Indica L.,31
+164,Manihot Glaziovii Muell. -Arg,1
+164,Manilkara Zapota (L.) P. Royen,19
+164,Melia Dubia Cav,6
+164,Michelia Champaca L,2
+164,Mitragyna Parviflora (Roxb.) Korth.,1
+164,Muntingia Calabura L.,37
+164,Murraya Koenigii (L.) Spreng.,12
+164,Ochroma Lagopus Sw,13
+164,Others,2
+164,Parkia Biglandulosa Wt. & Arn.,1
+164,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,36
+164,Phoenix Rupicola T. Anders,1
+164,Phyllanthus Acidus (L.) Skeels,3
+164,Plumeria Rubra L. Forma Acutifolia,2
+164,Plumeria Rubra L. Forma Lutea,1
+164,Polyalthia Longifolia (Sonn.) Thwaites,1
+164,Pongamia Pinnata (L.) Pierre,277
+164,Pritchardia Pacifica Seem. & H. Wendl.,1
+164,Pseudobombax Ellipticum (H.B.K.) Dug,2
+164,Psidium Guajava L.,2
+164,Pterocarpus Marsupium Roxb,3
+164,Samanea Saman (Jacq.) Merr.,2
+164,Santalum Album L,1
+164,Sapium Sebiferum (L.) Roxb.,1
+164,Saraca Asoca (Roxb.) De Wilde,92
+164,Sesbania Grandiflora (L.) Poiret,1
+164,Simarouba Glauca Dc.,1
+164,Spathodea Campanulata P. Beauv,66
+164,Spondias Pinnata (L.F.) Kurz,2
+164,Swietenia Mahagoni (L.) Jacq.,118
+164,Syagrus Romanzoffianum (Cham),1
+164,Syzygium Cumini (L.) Skeels,9
+164,Syzygium Laetum (Buch. -Ham.),3
+164,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,9
+164,Terminalia Arjuna (Roxb. Ex Dc.) Wight & Arn.,1
+164,Terminalia Catappa L,52
+164,Thespesia Populnea,16
+164,Thespesia Populnea (L.) Sol. Ex Corr. Serr,3
+164,Vitex Altissima L.F,2
+164,Wrightia Tinctoria (Roxb.) R. Br,1
+165,Acacia Auriculiformis Cunn. Ex Benth,6
+165,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,4
+165,Aegle Marmelos (L.) Corr. Serr.,1
+165,Ailanthus Triphysa (Dennst.) Alston,4
+165,Aleurites Moluccana (L.) Wild.,1
+165,Alstonia Scholaris (L.) R. Br.,1
+165,Anacardium Occidentale L.,11
+165,Annona Squamosa L,52
+165,Artocarpus Altitilis (Park.) Fosb.,3
+165,Artocarpus Heterophyllus Lam.,29
+165,Artocarpus Hirsutus Lam.,11
+165,Averrhoa Carambola L.,1
+165,Azadirachta Indica A. Juss.,31
+165,Bauhinia Forficata,3
+165,Bauhinia Purpurea L.,2
+165,Bauhinia Variegata L.,41
+165,Bombax Malabaricum Dc,1
+165,Broussonetia Luzonica Bureau,10
+165,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,1
+165,Caryota Urens L,4
+165,Cassia Fistula,1
+165,Cassia Fistula L.,1
+165,Cassia Javanica L.,9
+165,Cassia Moschata Kunth,7
+165,Cassia Roxburghii Dc.,11
+165,Cedrela Odorata L,1
+165,Ceiba Pentandra (L.) Gaertn.,1
+165,Ceiba Speciosa (A. St. Hil.) Ravenna,40
+165,Centrolobium Microchaete (Mart. Ex Benth.),9
+165,Citharexylum Fruticosum L.,2
+165,Clusia Rosea Jacq.,1
+165,Cocos Nucifera L.,158
+165,Crescentia Cujete L.,2
+165,Cyrtostachys Renda Blume,1
+165,Delonix Regia (Bojer Ex Hook.) Raf.,7
+165,Emblica Officinalis Gaertn.,17
+165,Enterolobium Contortisiliqum (Vell.),1
+165,Erythrina Suberosa Roxb.,1
+165,Erythrina Umbrosa Kunth,11
+165,Erythroxylum Monogynum Roxb.,1
+165,Eucalyptus Tereticornis Sm.,4
+165,Ficus Benghalensis L.,16
+165,Ficus Benjamina L.,1
+165,Ficus Pandurata Hance,2
+165,Ficus Racemosa L.,40
+165,Ficus Religiosa L.,1
+165,Filicium Decipiens (Wt. & Arn.),2
+165,Firmiana Colorata (Roxb.) R. Br.,14
+165,Garcinia Indica (Thouars) Choisy,2
+165,Gliricidia Sepium,20
+165,Gmelina Arborea Roxb.,1
+165,Grevillea Robusta Cunn. Ex R. Br.,33
+165,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,294
+165,Jacaranda Acutifolia Humb. & Bonp,9
+165,Lagerstroemia Speciosa (L.) Pers,45
+165,Limonia Acidissima L.,1
+165,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,2
+165,Madhuca Indica J. Gmelin,24
+165,Majidea Zanguebarica Oliv.,2
+165,Malpighia Glabra L.,1
+165,Mangifera Indica L.,28
+165,Manilkara Zapota (L.) P. Royen,19
+165,Melaleuca Bracteate F. Muell.,1
+165,Melia Dubia Cav,12
+165,Mesua Ferrea L,2
+165,Michelia Champaca L,68
+165,Millingtonia Hortensis L.F,1
+165,Moringa Oleifera Lam.,9
+165,Muntingia Calabura L.,62
+165,Murraya Koenigii (L.) Spreng.,11
+165,Neolomarckia,1
+165,Ochroma Lagopus Sw,19
+165,Peltophorum Africanum Sond.,1
+165,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,219
+165,Persea Macrantha (Nees) Kosterm,1
+165,Phoenix Rupicola T. Anders,3
+165,Phyllanthus Acidus (L.) Skeels,21
+165,Plumeria Rubra L. Forma Acutifolia,1
+165,Polyalthia Longifolia (Sonn.) Thwaites,1
+165,Pongamia Pinnata (L.) Pierre,423
+165,Pritchardia Pacifica Seem. & H. Wendl.,1
+165,Psidium Guajava L.,2
+165,Pterocarpus Marsupium Roxb,19
+165,Pterospermum Acerifolium (L.) Wild,4
+165,Ptychosperma Macarthuri Nichols,1
+165,Samanea Saman (Jacq.) Merr.,98
+165,Santalum Album L,1
+165,Saraca Asoca (Roxb.) De Wilde,347
+165,Schotia Brachypetala Sonder,1
+165,Semecarpus Anacardium L.F,2
+165,Sesbania Grandiflora (L.) Poiret,11
+165,Simarouba Glauca Dc.,1
+165,Spathodea Campanulata P. Beauv,239
+165,Spondias Pinnata (L.F.) Kurz,1
+165,Swietenia Macrophylla King,1
+165,Swietenia Mahagoni (L.) Jacq.,307
+165,Syagrus Romanzoffianum (Cham),7
+165,Syzygium Cumini (L.) Skeels,32
+165,Syzygium Laetum (Buch. -Ham.),4
+165,Tabebuia Chrysotricha (Mart. Ex Dc.) Standl,1
+165,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,7
+165,Tamarindus Indica L.,3
+165,Terminalia Catappa L,126
+165,Thespesia Populnea,27
+165,Toona Ciliata M. Roeme,1
+165,Vitex Altissima L.F,9
+165,Wrightia Tinctoria (Roxb.) R. Br,7
+165,ficus Drupacea,1
+166,Acacia Auriculiformis Cunn. Ex Benth,2
+166,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,1
+166,Annona Reticulata L.,1
+166,Artocarpus Heterophyllus Lam.,3
+166,Bauhinia Variegata L.,1
+166,Cassia Moschata Kunth,7
+166,Cassia Roxburghii Dc.,2
+166,Cedrela Odorata L,1
+166,Ceiba Speciosa (A. St. Hil.) Ravenna,1
+166,Cocos Nucifera L.,10
+166,Eugenia Uniflora L,1
+166,Ficus Benghalensis L.,4
+166,Ficus Racemosa L.,8
+166,Grevillea Robusta Cunn. Ex R. Br.,15
+166,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,4
+166,Jacaranda Acutifolia Humb. & Bonp,3
+166,Mangifera Indica L.,7
+166,Melia Azedarach L,1
+166,Michelia Champaca L,1
+166,Muntingia Calabura L.,2
+166,Neolomarckia,1
+166,Ochroma Lagopus Sw,2
+166,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,28
+166,Phyllanthus Acidus (L.) Skeels,3
+166,Pongamia Pinnata (L.) Pierre,25
+166,Samanea Saman (Jacq.) Merr.,33
+166,Saraca Asoca (Roxb.) De Wilde,52
+166,Spathodea Campanulata P. Beauv,17
+166,Swietenia Macrophylla King,1
+166,Swietenia Mahagoni (L.) Jacq.,18
+166,Syagrus Romanzoffianum (Cham),1
+166,Syzygium Cumini (L.) Skeels,1
+166,Terminalia Catappa L,16
+166,Thespesia Populnea,10
+167,Acacia Auriculiformis Cunn. Ex Benth,16
+167,Acacia Catechu (L. F.) Wild.,1
+167,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,36
+167,Aegle Marmelos (L.) Corr. Serr.,1
+167,Ailanthus Triphysa (Dennst.) Alston,8
+167,Alstonia Macrophylla Wall. Ex Dc.,1
+167,Alstonia Scholaris (L.) R. Br.,3
+167,Anacardium Occidentale L.,5
+167,Annona Squamosa L,89
+167,Araucaria Columnaris,2
+167,Artocarpus Altitilis (Park.) Fosb.,1
+167,Artocarpus Heterophyllus Lam.,131
+167,Artocarpus Hirsutus Lam.,2
+167,Azadirachta Indica A. Juss.,55
+167,Barringtonia Acutangula (L.),1
+167,Barringtonia Asiatica (L.) Kurz,1
+167,Bauhinia Forficata,2
+167,Bauhinia Tomentosa L.,1
+167,Bauhinia Variegata L.,42
+167,Brassaia Actinophylla Endl. Var. Capitata Clarke,2
+167,Broussonetia Luzonica Bureau,11
+167,Calamus Prasinus Lak. & Renuka,1
+167,Caryota Urens L,2
+167,Cassia Fistula,1
+167,Cassia Javanica L.,4
+167,Cassia Roxburghii Dc.,1
+167,Casuarina Equisetifolia L.,1
+167,Cedrela Odorata L,4
+167,Ceiba Speciosa (A. St. Hil.) Ravenna,11
+167,Centrolobium Microchaete (Mart. Ex Benth.),1
+167,Cirtus Grandis (L.) Osbeck,1
+167,Citharexylum Fruticosum L.,1
+167,Cocos Nucifera L.,253
+167,Cordia Wallichii G. Don,1
+167,Crescentia Cujete L.,1
+167,Delonix Regia (Bojer Ex Hook.) Raf.,29
+167,Dillenia Indica L,1
+167,Diospyros Melanoxylon Roxb.,3
+167,Duadanga Grandiflora (Roxb. Ex Dc.) Walp.,1
+167,Dypsis Lutescens (Wendl.) Beentze & Dransfield,2
+167,Elaeocarpus Grandis F. Muell.,2
+167,Emblica Officinalis Gaertn.,1
+167,Eucalyptus Tereticornis Sm.,52
+167,Eugenia Uniflora L,29
+167,Ficus Benghalensis L.,6
+167,Ficus Elastica Roxb. Ex Hornem,1
+167,Ficus Pandurata Hance,2
+167,Ficus Racemosa L.,58
+167,Ficus Religiosa L.,10
+167,Ficus Virens Aiton (Ficus Infectoria Sensu Roxb. -Type Iii),2
+167,Filicium Decipiens (Wt. & Arn.),1
+167,Firmiana Colorata (Roxb.) R. Br.,6
+167,Gliricidia Sepium,5
+167,Grevillea Robusta Cunn. Ex R. Br.,60
+167,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,178
+167,Jacaranda Acutifolia Humb. & Bonp,37
+167,Joannesia Princeps Vell,1
+167,Kigelia Africana (Lam.) Benth,1
+167,Lagerstroemia Speciosa (L.) Pers,28
+167,Leucaena Latisiliqua (L.) Gillis,1
+167,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,1
+167,Madhuca Indica J. Gmelin,16
+167,Majidea Zanguebarica Oliv.,3
+167,Malpighia Glabra L.,2
+167,Mangifera Indica L.,236
+167,Manilkara Zapota (L.) P. Royen,28
+167,Markhamia Lutea (Benth.) K.Schum,11
+167,Melia Dubia Cav,8
+167,Mesua Ferrea L,2
+167,Michelia Champaca L,23
+167,Millettia Peguensis Ali,1
+167,Millingtonia Hortensis L.F,48
+167,Mimusops Elengi L.,1
+167,Moringa Oleifera Lam.,2
+167,Muntingia Calabura L.,11
+167,Murraya Koenigii (L.) Spreng.,14
+167,Neolomarckia,4
+167,Ochroma Lagopus Sw,1
+167,Parkia Biglandulosa Wt. & Arn.,1
+167,Peltophorum Africanum Sond.,1
+167,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,259
+167,Persea Americana Mille,1
+167,Phyllanthus Acidus (L.) Skeels,23
+167,Plumeria Obtusa L. Var. Sericiflora,3
+167,Polyalthia Longifolia (Sonn.) Thwaites,2
+167,Pongamia Pinnata (L.) Pierre,299
+167,Pterocarpus Marsupium Roxb,6
+167,Rhapis Excelsa Henry,3
+167,Samanea Saman (Jacq.) Merr.,65
+167,Santalum Album L,5
+167,Sapindus Laurifolius Vahl,2
+167,Saraca Asoca (Roxb.) De Wilde,420
+167,Semecarpus Anacardium L.F,3
+167,Sesbania Grandiflora (L.) Poiret,7
+167,Shorea Roxburghii G. Don,1
+167,Simarouba Glauca Dc.,6
+167,Spathodea Campanulata P. Beauv,135
+167,Spondias Pinnata (L.F.) Kurz,2
+167,Swietenia Macrophylla King,8
+167,Swietenia Mahagoni (L.) Jacq.,709
+167,Syagrus Romanzoffianum (Cham),2
+167,Syzygium Cumini (L.) Skeels,50
+167,Syzygium Nervosum Dc,5
+167,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,1
+167,Terminalia Catappa L,126
+167,Thespesia Populnea,125
+167,Thespesia Populnea (L.) Sol. Ex Corr. Serr,1
+167,Toona Ciliata M. Roeme,25
+167,Vitex Altissima L.F,5
+167,Wrightia Tinctoria (Roxb.) R. Br,2
+167,ficus Drupacea,1
+168,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,41
+168,Ailanthus Triphysa (Dennst.) Alston,1
+168,Annona Squamosa L,11
+168,Artocarpus Heterophyllus Lam.,2
+168,Azadirachta Indica A. Juss.,4
+168,Bauhinia Purpurea L.,1
+168,Bauhinia Variegata L.,4
+168,Cinnamomum Verum J.S. Presl,1
+168,Cocos Nucifera L.,26
+168,Crescentia Cujete L.,1
+168,Delonix Regia (Bojer Ex Hook.) Raf.,10
+168,Erythrina Suberosa Roxb.,1
+168,Ficus Benghalensis L.,178
+168,Ficus Pandurata Hance,1
+168,Ficus Racemosa L.,6
+168,Ficus Religiosa L.,1
+168,Gliricidia Sepium,1
+168,Grevillea Robusta Cunn. Ex R. Br.,8
+168,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,1
+168,Lagerstroemia Speciosa (L.) Pers,4
+168,Madhuca Indica J. Gmelin,1
+168,Mangifera Indica L.,8
+168,Michelia Champaca L,2
+168,Millingtonia Hortensis L.F,7
+168,Muntingia Calabura L.,26
+168,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,190
+168,Phyllanthus Acidus (L.) Skeels,3
+168,Pongamia Pinnata (L.) Pierre,511
+168,Pterocarpus Marsupium Roxb,3
+168,Samanea Saman (Jacq.) Merr.,58
+168,Saraca Asoca (Roxb.) De Wilde,7
+168,Simarouba Glauca Dc.,1
+168,Spathodea Campanulata P. Beauv,13
+168,Swietenia Macrophylla King,1
+168,Swietenia Mahagoni (L.) Jacq.,115
+168,Terminalia Catappa L,28
+168,Thespesia Populnea,19
+168,Toona Ciliata M. Roeme,1
+168,Wrightia Tinctoria (Roxb.) R. Br,2
+169,Acacia Auriculiformis Cunn. Ex Benth,2
+169,Annona Squamosa L,1
+169,Araucaria Columnaris,1
+169,Azadirachta Indica A. Juss.,2
+169,Bauhinia Variegata L.,1
+169,Brassaia Actinophylla Endl. Var. Capitata Clarke,1
+169,Grevillea Robusta Cunn. Ex R. Br.,3
+169,Malpighia Glabra L.,4
+169,Mangifera Indica L.,2
+169,Michelia Champaca L,9
+169,Muntingia Calabura L.,2
+169,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,17
+169,Phyllanthus Acidus (L.) Skeels,4
+169,Pongamia Pinnata (L.) Pierre,10
+169,Pterocarpus Marsupium Roxb,1
+169,Samanea Saman (Jacq.) Merr.,6
+169,Saraca Asoca (Roxb.) De Wilde,6
+169,Spathodea Campanulata P. Beauv,2
+169,Swietenia Mahagoni (L.) Jacq.,27
+169,Syzygium Cumini (L.) Skeels,2
+169,Terminalia Catappa L,6
+169,Thespesia Populnea,10
+170,Acacia Auriculiformis Cunn. Ex Benth,4
+170,Acacia Chundra (Roxb. Ex Rottl.),1
+170,Acacia Leucophloea (Roxb.) Wild,4
+170,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,25
+170,Aegle Marmelos (L.) Corr. Serr.,2
+170,Ailanthus Triphysa (Dennst.) Alston,4
+170,Albizia Lebbeck (L.) Benth.,1
+170,Anacardium Occidentale L.,2
+170,Annona Reticulata L.,1
+170,Annona Squamosa L,28
+170,Artocarpus Heterophyllus Lam.,13
+170,Artocarpus Hirsutus Lam.,4
+170,Azadirachta Indica A. Juss.,62
+170,Barringtonia Acutangula (L.),1
+170,Bauhinia Forficata,4
+170,Bauhinia Purpurea L.,5
+170,Bauhinia Racemosa Lam,6
+170,Bauhinia Variegata L.,25
+170,Broussonetia Luzonica Bureau,5
+170,Broussonetia Papyrifera Vent,1
+170,Calamus Prasinus Lak. & Renuka,1
+170,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,12
+170,Calophyllum Inophyllum L,2
+170,Caryota Urens L,2
+170,Cassia Fistula,4
+170,Cassia Javanica L.,12
+170,Cassia Moschata Kunth,65
+170,Cassia Roxburghii Dc.,6
+170,Cassine Paniculata (Wight & Arn.),1
+170,Casuarina Equisetifolia L.,1
+170,Cedrela Odorata L,4
+170,Ceiba Pentandra (L.) Gaertn.,1
+170,Ceiba Speciosa (A. St. Hil.) Ravenna,3
+170,Cinnamomum Verum J.S. Presl,1
+170,Cocos Nucifera L.,75
+170,Cordia Wallichii G. Don,1
+170,Crescentia Cujete L.,1
+170,Dalbergia Sissoo Roxb.,4
+170,Delonix Regia (Bojer Ex Hook.) Raf.,1
+170,Dillenia Indica L,1
+170,Diospyros Ebenum Koenig.,1
+170,Diospyros Melanoxylon Roxb.,1
+170,Emblica Officinalis Gaertn.,111
+170,Erythrina Umbrosa Kunth,6
+170,Eucalyptus Tereticornis Sm.,3
+170,Ficus Benghalensis L.,26
+170,Ficus Racemosa L.,48
+170,Ficus Religiosa L.,1
+170,Filicium Decipiens (Wt. & Arn.),4
+170,Firmiana Colorata (Roxb.) R. Br.,6
+170,Garcinia Indica (Thouars) Choisy,1
+170,Gliricidia Sepium,2
+170,Grevillea Robusta Cunn. Ex R. Br.,34
+170,Guazuma Ulmifolia Lam,1
+170,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,74
+170,Jacaranda Acutifolia Humb. & Bonp,7
+170,Khaya Senegalensis (Desr.) A. Juss.,1
+170,Lagerstroemia Speciosa (L.) Pers,47
+170,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,1
+170,Madhuca Indica J. Gmelin,37
+170,Mangifera Indica L.,43
+170,Manilkara Zapota (L.) P. Royen,9
+170,Markhamia Lutea (Benth.) K.Schum,4
+170,Melaleuca Bracteate F. Muell.,2
+170,Melia Azedarach L,1
+170,Melia Dubia Cav,6
+170,Michelia Champaca L,11
+170,Millingtonia Hortensis L.F,1
+170,Moringa Oleifera Lam.,1
+170,Muntingia Calabura L.,72
+170,Murraya Koenigii (L.) Spreng.,8
+170,Ochroma Lagopus Sw,27
+170,Others,5
+170,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,102
+170,Phoenix Rupicola T. Anders,2
+170,Phyllanthus Acidus (L.) Skeels,16
+170,Plumeria Rubra L. Forma Acutifolia,1
+170,Polyalthia Longifolia (Sonn.) Thwaites,5
+170,Pongamia Pinnata (L.) Pierre,507
+170,Pritchardia Pacifica Seem. & H. Wendl.,1
+170,Prosopis Juliflora (Sw.) Dc.,3
+170,Psidium Guajava L.,2
+170,Pterocarpus Marsupium Roxb,11
+170,Ptychosperma Macarthuri Nichols,3
+170,Rhapis Excelsa Henry,11
+170,Samanea Saman (Jacq.) Merr.,89
+170,Santalum Album L,1
+170,Saraca Asoca (Roxb.) De Wilde,137
+170,Sesbania Grandiflora (L.) Poiret,9
+170,Spathodea Campanulata P. Beauv,101
+170,Spondias Pinnata (L.F.) Kurz,3
+170,Streblus Asper Lour,1
+170,Swietenia Mahagoni (L.) Jacq.,341
+170,Syagrus Romanzoffianum (Cham),6
+170,Syzygium Cumini (L.) Skeels,20
+170,Syzygium Laetum (Buch. -Ham.),7
+170,Syzygium Nervosum Dc,1
+170,Syzygium Samarangese (Bl.) Merr. & Perry,2
+170,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,3
+170,Tamarindus Indica L.,10
+170,Terminalia Catappa L,70
+170,Thespesia Populnea,38
+170,Thespesia Populnea (L.) Sol. Ex Corr. Serr,1
+170,Thevetia Peruviana (Pers.) Merr.,1
+170,Tipuana Tipu (Benth.) Kuntze,1
+170,Toona Ciliata M. Roeme,1
+170,Vitex Altissima L.F,6
+170,Wrightia Tinctoria (Roxb.) R. Br,1
+170,Ziziphus Mauritiana Lam,1
+171,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,1
+171,Annona Squamosa L,6
+171,Araucaria Columnaris,1
+171,Artocarpus Heterophyllus Lam.,9
+171,Azadirachta Indica A. Juss.,2
+171,Ceiba Speciosa (A. St. Hil.) Ravenna,14
+171,Centrolobium Microchaete (Mart. Ex Benth.),1
+171,Cocos Nucifera L.,37
+171,Delonix Regia (Bojer Ex Hook.) Raf.,6
+171,Eucalyptus Tereticornis Sm.,5
+171,Ficus Benghalensis L.,1
+171,Ficus Pandurata Hance,4
+171,Ficus Religiosa L.,9
+171,Grevillea Robusta Cunn. Ex R. Br.,13
+171,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,467
+171,Lagerstroemia Speciosa (L.) Pers,5
+171,Madhuca Indica J. Gmelin,1
+171,Malpighia Glabra L.,2
+171,Mangifera Indica L.,8
+171,Michelia Champaca L,8
+171,Millingtonia Hortensis L.F,19
+171,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,17
+171,Phyllanthus Acidus (L.) Skeels,3
+171,Pongamia Pinnata (L.) Pierre,37
+171,Prosopis Juliflora (Sw.) Dc.,1
+171,Roystonea Regia (H.B.K) O. F. Cook,29
+171,Samanea Saman (Jacq.) Merr.,29
+171,Saraca Asoca (Roxb.) De Wilde,83
+171,Spathodea Campanulata P. Beauv,2
+171,Swietenia Macrophylla King,1
+171,Swietenia Mahagoni (L.) Jacq.,72
+171,Syzygium Cumini (L.) Skeels,20
+171,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,2
+171,Terminalia Catappa L,16
+171,Toona Ciliata M. Roeme,7
+172,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,5
+172,Aegle Marmelos (L.) Corr. Serr.,1
+172,Annona Squamosa L,16
+172,Araucaria Columnaris,3
+172,Artocarpus Heterophyllus Lam.,13
+172,Azadirachta Indica A. Juss.,14
+172,Bauhinia Purpurea L.,3
+172,Bauhinia Racemosa Lam,2
+172,Bauhinia Variegata L.,43
+172,Brassaia Actinophylla Endl. Var. Capitata Clarke,6
+172,Broussonetia Luzonica Bureau,6
+172,Ceiba Speciosa (A. St. Hil.) Ravenna,10
+172,Cocos Nucifera L.,98
+172,Couroupita Guianensis Abul.,1
+172,Delonix Regia (Bojer Ex Hook.) Raf.,29
+172,Diospyros Melanoxylon Roxb.,1
+172,Dypsis Lutescens (Wendl.) Beentze & Dransfield,1
+172,Emblica Officinalis Gaertn.,1
+172,Eucalyptus Tereticornis Sm.,10
+172,Eugenia Uniflora L,1
+172,Ficus Benghalensis L.,9
+172,Ficus Pandurata Hance,6
+172,Ficus Racemosa L.,10
+172,Ficus Religiosa L.,45
+172,Filicium Decipiens (Wt. & Arn.),1
+172,Grevillea Robusta Cunn. Ex R. Br.,56
+172,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,371
+172,Lagerstroemia Speciosa (L.) Pers,28
+172,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,5
+172,Madhuca Indica J. Gmelin,2
+172,Malpighia Glabra L.,26
+172,Mangifera Indica L.,34
+172,Manilkara Zapota (L.) P. Royen,2
+172,Melia Dubia Cav,1
+172,Mesua Ferrea L,4
+172,Michelia Champaca L,26
+172,Millingtonia Hortensis L.F,115
+172,Murraya Koenigii (L.) Spreng.,3
+172,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,77
+172,Phyllanthus Acidus (L.) Skeels,4
+172,Polyalthia Longifolia (Sonn.) Thwaites,3
+172,Pongamia Pinnata (L.) Pierre,127
+172,Pterocarpus Marsupium Roxb,2
+172,Pterospermum Acerifolium (L.) Wild,1
+172,Roystonea Regia (H.B.K) O. F. Cook,98
+172,Samanea Saman (Jacq.) Merr.,76
+172,Saraca Asoca (Roxb.) De Wilde,293
+172,Sesbania Grandiflora (L.) Poiret,1
+172,Spathodea Campanulata P. Beauv,50
+172,Swietenia Macrophylla King,4
+172,Swietenia Mahagoni (L.) Jacq.,407
+172,Syzygium Cumini (L.) Skeels,40
+172,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,1
+172,Terminalia Catappa L,85
+172,Thespesia Populnea,18
+172,Toona Ciliata M. Roeme,28
+172,Vitex Altissima L.F,6
+172,Wrightia Tinctoria (Roxb.) R. Br,5
+172,ficus Drupacea,1
+173,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,1
+173,Ailanthus Triphysa (Dennst.) Alston,1
+173,Alstonia Scholaris (L.) R. Br.,2
+173,Annona Squamosa L,3
+173,Artocarpus Heterophyllus Lam.,24
+173,Azadirachta Indica A. Juss.,9
+173,Barringtonia Acutangula (L.),1
+173,Bauhinia Purpurea L.,41
+173,Bauhinia Racemosa Lam,5
+173,Bauhinia Variegata L.,13
+173,Bombax Malabaricum Dc,1
+173,Broussonetia Luzonica Bureau,2
+173,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,4
+173,Cassia Javanica L.,7
+173,Cassia Moschata Kunth,21
+173,Cassia Roxburghii Dc.,87
+173,Cedrela Odorata L,1
+173,Ceiba Speciosa (A. St. Hil.) Ravenna,12
+173,Cochlospermum Religiosum (L.),2
+173,Cocos Nucifera L.,46
+173,Dalbergia Sissoo Roxb.,1
+173,Delonix Regia (Bojer Ex Hook.) Raf.,33
+173,Emblica Officinalis Gaertn.,17
+173,Erythrina Umbrosa Kunth,10
+173,Eucalyptus Tereticornis Sm.,13
+173,Ficus Benghalensis L.,5
+173,Ficus Racemosa L.,11
+173,Ficus Religiosa L.,68
+173,Firmiana Colorata (Roxb.) R. Br.,1
+173,Grevillea Robusta Cunn. Ex R. Br.,51
+173,Hibiscus Tiliaceus L,1
+173,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,84
+173,Lagerstroemia Speciosa (L.) Pers,3
+173,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,11
+173,Madhuca Indica J. Gmelin,7
+173,Mangifera Indica L.,34
+173,Manilkara Zapota (L.) P. Royen,10
+173,Michelia Champaca L,73
+173,Millingtonia Hortensis L.F,1
+173,Muntingia Calabura L.,22
+173,Murraya Koenigii (L.) Spreng.,2
+173,Ochroma Lagopus Sw,4
+173,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,245
+173,Plumeria Rubra L. Forma Acutifolia,3
+173,Polyalthia Longifolia (Sonn.) Thwaites,4
+173,Pongamia Pinnata (L.) Pierre,350
+173,Pterocarpus Marsupium Roxb,6
+173,Samanea Saman (Jacq.) Merr.,97
+173,Saraca Asoca (Roxb.) De Wilde,178
+173,Spathodea Campanulata P. Beauv,210
+173,Swietenia Mahagoni (L.) Jacq.,255
+173,Syagrus Romanzoffianum (Cham),6
+173,Syzygium Cumini (L.) Skeels,3
+173,Syzygium Laetum (Buch. -Ham.),1
+173,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,10
+173,Tamarindus Indica L.,8
+173,Terminalia Catappa L,70
+173,Thespesia Populnea,78
+173,Ziziphus Mauritiana Lam,1
+174,Annona Squamosa L,3
+174,Azadirachta Indica A. Juss.,3
+174,Bauhinia Purpurea L.,3
+174,Bauhinia Variegata L.,1
+174,Cassia Javanica L.,2
+174,Cassia Moschata Kunth,4
+174,Cassia Roxburghii Dc.,2
+174,Cedrela Odorata L,1
+174,Chukrasia Tabularis A. Juss.,1
+174,Cocos Nucifera L.,3
+174,Dalbergia Latifolia Roxb.,1
+174,Delonix Regia (Bojer Ex Hook.) Raf.,5
+174,Emblica Officinalis Gaertn.,4
+174,Erythrina Umbrosa Kunth,1
+174,Ficus Benghalensis L.,1
+174,Ficus Racemosa L.,2
+174,Ficus Religiosa L.,9
+174,Grevillea Robusta Cunn. Ex R. Br.,4
+174,Madhuca Indica J. Gmelin,5
+174,Mangifera Indica L.,9
+174,Manilkara Zapota (L.) P. Royen,2
+174,Michelia Champaca L,8
+174,Millingtonia Hortensis L.F,3
+174,Muntingia Calabura L.,2
+174,Murraya Koenigii (L.) Spreng.,1
+174,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,16
+174,Pongamia Pinnata (L.) Pierre,42
+174,Pterocarpus Marsupium Roxb,2
+174,Samanea Saman (Jacq.) Merr.,17
+174,Saraca Asoca (Roxb.) De Wilde,62
+174,Spathodea Campanulata P. Beauv,34
+174,Swietenia Mahagoni (L.) Jacq.,44
+174,Syzygium Cumini (L.) Skeels,1
+174,Tamarindus Indica L.,1
+174,Terminalia Catappa L,3
+174,Thespesia Populnea,7
+175,Acacia Auriculiformis Cunn. Ex Benth,3
+175,Acacia Catechu (L. F.) Wild.,1
+175,Adenanthera Pavonina L.,1
+175,Aleurites Moluccana (L.) Wild.,1
+175,Alstonia Macrophylla Wall. Ex Dc.,2
+175,Alstonia Scholaris (L.) R. Br.,2
+175,Anacardium Occidentale L.,1
+175,Annona Squamosa L,18
+175,Artocarpus Heterophyllus Lam.,98
+175,Artocarpus Hirsutus Lam.,1
+175,Azadirachta Indica A. Juss.,28
+175,Bauhinia Purpurea L.,13
+175,Bauhinia Racemosa Lam,4
+175,Bauhinia Variegata L.,13
+175,Bauhinia Variegata L. Var. Candida Voigt.,6
+175,Bombax Malabaricum Dc,2
+175,Broussonetia Luzonica Bureau,15
+175,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,5
+175,Caryota Urens L,1
+175,Cassia Grandis L.F,2
+175,Cassia Javanica L.,13
+175,Cassia Moschata Kunth,97
+175,Cassia Roxburghii Dc.,125
+175,Casuarina Equisetifolia L.,1
+175,Cedrela Odorata L,4
+175,Ceiba Speciosa (A. St. Hil.) Ravenna,37
+175,Chukrasia Tabularis A. Juss.,1
+175,Cocos Nucifera L.,87
+175,Cordia Wallichii G. Don,1
+175,Cyrtostachys Renda Blume,2
+175,Dalbergia Sissoo Roxb.,3
+175,Delonix Regia (Bojer Ex Hook.) Raf.,182
+175,Diospyros Cordifolia Roxb.,1
+175,Diospyros Ebenum Koenig.,4
+175,Diospyros Melanoxylon Roxb.,1
+175,Emblica Officinalis Gaertn.,110
+175,Erythrina Umbrosa Kunth,35
+175,Eucalyptus Tereticornis Sm.,14
+175,Ficus Benghalensis L.,16
+175,Ficus Elastica Roxb. Ex Hornem,1
+175,Ficus Racemosa L.,40
+175,Ficus Religiosa L.,60
+175,Ficus Virens Aiton (Ficus Infectoria Sensu Roxb. -Type Iii),15
+175,Firmiana Colorata (Roxb.) R. Br.,1
+175,Flacouratia Inermis Roxb.,1
+175,Grevillea Robusta Cunn. Ex R. Br.,19
+175,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,569
+175,Jacaranda Acutifolia Humb. & Bonp,28
+175,Khaya Senegalensis (Desr.) A. Juss.,2
+175,Kigelia Africana (Lam.) Benth,1
+175,Lagerstroemia Speciosa (L.) Pers,3
+175,Leucaena Latisiliqua (L.) Gillis,1
+175,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,234
+175,Madhuca Indica J. Gmelin,50
+175,Malpighia Glabra L.,1
+175,Mangifera Indica L.,76
+175,Manilkara Zapota (L.) P. Royen,7
+175,Markhamia Lutea (Benth.) K.Schum,15
+175,Michelia Champaca L,41
+175,Michelia Longifolia Blume,1
+175,Millettia Peguensis Ali,1
+175,Millingtonia Hortensis L.F,53
+175,Mimusops Elengi L.,1
+175,Morus Alba L.,1
+175,Muntingia Calabura L.,49
+175,Murraya Koenigii (L.) Spreng.,2
+175,Neolomarckia,1
+175,Ochroma Lagopus Sw,6
+175,Others,437
+175,Peltophorum Africanum Sond.,1
+175,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,435
+175,Phyllanthus Acidus (L.) Skeels,1
+175,Plumeria Rubra L. Forma Acutifolia,15
+175,Plumeria Rubra L. Forma Lutea,1
+175,Polyalthia Longifolia (Sonn.) Thwaites,30
+175,Pongamia Pinnata (L.) Pierre,590
+175,Pseudobombax Ellipticum (H.B.K.) Dug,4
+175,Psidium Guajava L.,22
+175,Pterocarpus Marsupium Roxb,24
+175,Ptychosperma Macarthuri Nichols,355
+175,Roystonea Regia (H.B.K) O. F. Cook,22
+175,Samanea Saman (Jacq.) Merr.,135
+175,Sapindus Laurifolius Vahl,1
+175,Sapium Sebiferum (L.) Roxb.,11
+175,Saraca Asoca (Roxb.) De Wilde,312
+175,Sesbania Grandiflora (L.) Poiret,6
+175,Shorea Roxburghii G. Don,2
+175,Spathodea Campanulata P. Beauv,416
+175,Spondias Pinnata (L.F.) Kurz,1
+175,Streblus Asper Lour,1
+175,Swietenia Mahagoni (L.) Jacq.,408
+175,Syagrus Romanzoffianum (Cham),11
+175,Syzygium Cumini (L.) Skeels,27
+175,Syzygium Nervosum Dc,2
+175,Tabebuia Aurea (Manso) Benth. & Hook.F. Ex S. Moore,1
+175,Tabebuia Impetiginosa (Mart. Ex Dc.) Standl.,1
+175,Tabebuia Rosea (Bertol) Dc.,233
+175,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,1
+175,Tamarindus Indica L.,21
+175,Terminalia Catappa L,155
+175,Terminalia Crenulata Roth,2
+175,Thespesia Populnea,103
+175,Wrightia Tinctoria (Roxb.) R. Br,22
+175,Ziziphus Mauritiana Lam,7
+176,Acacia Auriculiformis Cunn. Ex Benth,4
+176,Adenanthera Pavonina L.,1
+176,Ailanthus Triphysa (Dennst.) Alston,2
+176,Alstonia Scholaris (L.) R. Br.,1
+176,Annona Squamosa L,4
+176,Araucaria Columnaris,1
+176,Artocarpus Altitilis (Park.) Fosb.,3
+176,Artocarpus Heterophyllus Lam.,244
+176,Azadirachta Indica A. Juss.,39
+176,Bauhinia Blakeana Dunn,1
+176,Bauhinia Purpurea L.,14
+176,Bauhinia Racemosa Lam,19
+176,Bauhinia Tomentosa L.,1
+176,Bauhinia Variegata L.,7
+176,Broussonetia Luzonica Bureau,5
+176,Calophyllum Inophyllum L,1
+176,Cassia Grandis L.F,1
+176,Cassia Javanica L.,1
+176,Cassia Roxburghii Dc.,7
+176,Cedrela Odorata L,1
+176,Cinnamomum Verum J.S. Presl,1
+176,Cocos Nucifera L.,434
+176,Crescentia Cujete L.,1
+176,Delonix Regia (Bojer Ex Hook.) Raf.,401
+176,Dypsis Lutescens (Wendl.) Beentze & Dransfield,1
+176,Elaeocarpus Grandis F. Muell.,3
+176,Emblica Officinalis Gaertn.,11
+176,Erythina Standleyana Krukoff,3
+176,Erythrina Umbrosa Kunth,121
+176,Eucalyptus Tereticornis Sm.,50
+176,Ficus Benghalensis L.,52
+176,Ficus Infectoria Sensu Roxb. – Type 1,6
+176,Ficus Racemosa L.,76
+176,Ficus Religiosa L.,7
+176,Filicium Decipiens (Wt. & Arn.),14
+176,Garcinia Indica (Thouars) Choisy,2
+176,Grevillea Robusta Cunn. Ex R. Br.,51
+176,Jacaranda Acutifolia Humb. & Bonp,6
+176,Lepisanthes Tetraphylla (Vahl) Radlk.,1
+176,Limonia Acidissima L.,1
+176,Livistona Rotundifolia (Lam.) Mart.,1
+176,Lonchocarpus Minimiflorus J.D. Smith,1
+176,Madhuca Indica J. Gmelin,8
+176,Mangifera Indica L.,425
+176,Manihot Glaziovii Muell. -Arg,1
+176,Manilkara Zapota (L.) P. Royen,24
+176,Markhamia Lutea (Benth.) K.Schum,1
+176,Melia Dubia Cav,4
+176,Michelia Longifolia Blume,26
+176,Millingtonia Hortensis L.F,153
+176,Mimusops Elengi L.,85
+176,Muntingia Calabura L.,126
+176,Murraya Koenigii (L.) Spreng.,1
+176,Others,1587
+176,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,143
+176,Persea Americana Mille,3
+176,Persea Macrantha (Nees) Kosterm,1
+176,Phyllanthus Acidus (L.) Skeels,15
+176,Plumaria alba,1
+176,Plumeri Obtusa L. Var. Obtusa,1
+176,Plumeria Rubra L. Forma Acutifolia,16
+176,Polyalthia Longifolia (Sonn.) Thwaites,5
+176,Pongamia Pinnata (L.) Pierre,585
+176,Psidium Guajava L.,73
+176,Pterocarpus Marsupium Roxb,42
+176,Ptychosperma Macarthuri Nichols,624
+176,Roystonea Regia (H.B.K) O. F. Cook,88
+176,Samanea Saman (Jacq.) Merr.,56
+176,Saraca Asoca (Roxb.) De Wilde,348
+176,Sesbania Grandiflora (L.) Poiret,1
+176,Spathodea Campanulata P. Beauv,395
+176,Swietenia Mahagoni (L.) Jacq.,269
+176,Syagrus Romanzoffianum (Cham),1
+176,Syzygium Cumini (L.) Skeels,62
+176,Syzygium Nervosum Dc,16
+176,Syzygium Samarangese (Bl.) Merr. & Perry,2
+176,Tabebuia Aurea (Manso) Benth. & Hook.F. Ex S. Moore,3
+176,Tabebuia Rosea (Bertol) Dc.,372
+176,Tamarindus Indica L.,23
+176,Techoma Stans,2
+176,Tectona Grandis L.F,343
+176,Terminalia Catappa L,235
+176,Terminalia Crenulata Roth,1
+176,Thespesia Populnea,97
+176,Thespesia Populnea (L.) Sol. Ex Corr. Serr,2
+176,Vitex Altissima L.F,1
+176,Wrightia Tinctoria (Roxb.) R. Br,106
+176,Ziziphus Mauritiana Lam,2
+178,Acacia Auriculiformis Cunn. Ex Benth,2
+178,Alstonia Macrophylla Wall. Ex Dc.,5
+178,Anacardium Occidentale L.,6
+178,Annona Squamosa L,7
+178,Araucaria Columnaris,23
+178,Artocarpus Heterophyllus Lam.,20
+178,Artocarpus Hirsutus Lam.,1
+178,Averrhoa Carambola L.,3
+178,Azadirachta Indica A. Juss.,40
+178,Bauhinia Blakeana Dunn,2
+178,Bauhinia Forficata,1
+178,Bauhinia Galpinii N.E. Br.,3
+178,Bauhinia Purpurea L.,39
+178,Bauhinia Racemosa Lam,12
+178,Bauhinia Variegata L.,50
+178,Bauhinia Variegata L. Var. Candida Voigt.,1
+178,Butea Monosperma (Lam.) Taub,7
+178,Caesalpinia Ferrea Mart. Ex Tul.,4
+178,Calamus Prasinus Lak. & Renuka,1
+178,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,18
+178,Cananga Odorata (Lam.) Hook.F. & Thoms.,1
+178,Caryota Mitis Lour.,86
+178,Cassia Roxburghii Dc.,1
+178,Ceiba Pentandra (L.) Gaertn.,10
+178,Ceiba Speciosa (A. St. Hil.) Ravenna,2
+178,Cirtus Grandis (L.) Osbeck,1
+178,Cocos Nucifera L.,71
+178,Couroupita Guianensis Abul.,20
+178,Crescentia Cujete L.,2
+178,Dalbergia Sissoo Roxb.,1
+178,Delonix Regia (Bojer Ex Hook.) Raf.,219
+178,Emblica Officinalis Gaertn.,4
+178,Erythina Standleyana Krukoff,1
+178,Eucalyptus Tereticornis Sm.,4
+178,Ficus Auriculata Lour.,1
+178,Ficus Benghalensis L.,24
+178,Ficus Benjamina L.,135
+178,Ficus Elastica Roxb. Ex Hornem,1
+178,Ficus Racemosa L.,43
+178,Ficus Religiosa L.,36
+178,Gmelina Arborea Roxb.,1
+178,Grevillea Robusta Cunn. Ex R. Br.,105
+178,Kigelia Africana (Lam.) Benth,3
+178,Lepisanthes Tetraphylla (Vahl) Radlk.,3
+178,Leucaena Latisiliqua (L.) Gillis,44
+178,Litchi Chinensis Sonn.,5
+178,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,2
+178,Majidea Zanguebarica Oliv.,44
+178,Mangifera Indica L.,37
+178,Manilkara Zapota (L.) P. Royen,3
+178,Markhamia Lutea (Benth.) K.Schum,954
+178,Melaleuca Bracteate F. Muell.,4
+178,Mesua Ferrea L,1
+178,Michelia Champaca L,16
+178,Michelia Longifolia Blume,90
+178,Millingtonia Hortensis L.F,76
+178,Mimusops Elengi L.,1
+178,Moringa Oleifera Lam.,1
+178,Muntingia Calabura L.,71
+178,Neolomarckia,11
+178,Others,173
+178,Parkia Biglandulosa Wt. & Arn.,1
+178,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,57
+178,Phoenix Sylvestris (L.) Roxb.,44
+178,Phyllanthus Acidus (L.) Skeels,1
+178,Pithecellobium Dulce (Roxb.) Benth.,2
+178,Plumeria Rubra L. Forma Acutifolia,2
+178,Plumeria Rubra L. Forma Tricolor,36
+178,Polyalthia Longifolia (Sonn.) Thwaites,1
+178,Pongamia Pinnata (L.) Pierre,747
+178,Pritchardia Pacifica Seem. & H. Wendl.,47
+178,Prosopis Juliflora (Sw.) Dc.,10
+178,Psidium Guajava L.,19
+178,Pterocarpus Marsupium Roxb,1
+178,Reutealis Trisperma (Blco.) Airy Shaw,1
+178,Roystonea Regia (H.B.K) O. F. Cook,178
+178,Samanea Saman (Jacq.) Merr.,125
+178,Santalum Album L,1
+178,Sapium Sebiferum (L.) Roxb.,1
+178,Saraca Asoca (Roxb.) De Wilde,140
+178,Schleichera Oleosa (Lour.) Oken,1
+178,Semecarpus Anacardium L.F,2
+178,Sesbania Grandiflora (L.) Poiret,2
+178,Simarouba Glauca Dc.,28
+178,Spathodea Campanulata P. Beauv,1
+178,Spondias Pinnata (L.F.) Kurz,1
+178,Streblus Asper Lour,1
+178,Swietenia Mahagoni (L.) Jacq.,364
+178,Syzygium Cumini (L.) Skeels,81
+178,Syzygium Nervosum Dc,1
+178,Tabebuia Impetiginosa (Mart. Ex Dc.) Standl.,2
+178,Tabebuia Rosea (Bertol) Dc.,460
+178,Tamarindus Indica L.,2
+178,Techoma Stans,6
+178,Tectona Grandis L.F,4
+178,Terminalia Catappa L,225
+178,Thespesia Populnea,115
+178,Thevetia Peruviana (Pers.) Merr.,1
+179,Alstonia Macrophylla Wall. Ex Dc.,2
+179,Anacardium Occidentale L.,1
+179,Annona Squamosa L,2
+179,Araucaria Columnaris,2
+179,Artocarpus Heterophyllus Lam.,9
+179,Azadirachta Indica A. Juss.,12
+179,Bauhinia Galpinii N.E. Br.,1
+179,Bauhinia Purpurea L.,12
+179,Bauhinia Racemosa Lam,38
+179,Bauhinia Variegata L.,2
+179,Caesalpinia Ferrea Mart. Ex Tul.,3
+179,Caryota Mitis Lour.,1
+179,Cinnamomum Verum J.S. Presl,1
+179,Cocos Nucifera L.,27
+179,Couroupita Guianensis Abul.,1
+179,Dalbergia Sissoo Roxb.,1
+179,Delonix Regia (Bojer Ex Hook.) Raf.,112
+179,Diospyros Melanoxylon Roxb.,1
+179,Emblica Officinalis Gaertn.,1
+179,Erythrina Umbrosa Kunth,3
+179,Ficus Benghalensis L.,6
+179,Ficus Benjamina L.,30
+179,Ficus Racemosa L.,17
+179,Ficus Religiosa L.,5
+179,Garcinia Indica (Thouars) Choisy,1
+179,Gmelina Arborea Roxb.,9
+179,Grevillea Robusta Cunn. Ex R. Br.,48
+179,Heritiera Littoralis Dyrand.,2
+179,Kigelia Africana (Lam.) Benth,1
+179,Leucaena Latisiliqua (L.) Gillis,12
+179,Litchi Chinensis Sonn.,1
+179,Mangifera Indica L.,11
+179,Markhamia Lutea (Benth.) K.Schum,164
+179,Michelia Champaca L,5
+179,Michelia Longifolia Blume,39
+179,Millingtonia Hortensis L.F,8
+179,Mitragyna Parviflora (Roxb.) Korth.,1
+179,Muntingia Calabura L.,40
+179,Neolomarckia,1
+179,Others,25
+179,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,52
+179,Phoenix Sylvestris (L.) Roxb.,2
+179,Phyllanthus Polyphykkus Wild,1
+179,Plumeria Rubra L. Forma Tricolor,2
+179,Pongamia Pinnata (L.) Pierre,219
+179,Pritchardia Pacifica Seem. & H. Wendl.,4
+179,Prosopis Juliflora (Sw.) Dc.,14
+179,Pterospermum Acerifolium (L.) Wild,2
+179,Roystonea Regia (H.B.K) O. F. Cook,17
+179,Samanea Saman (Jacq.) Merr.,25
+179,Santalum Album L,2
+179,Saraca Asoca (Roxb.) De Wilde,104
+179,Simarouba Glauca Dc.,13
+179,Swietenia Mahagoni (L.) Jacq.,67
+179,Syzygium Cumini (L.) Skeels,33
+179,Tabebuia Impetiginosa (Mart. Ex Dc.) Standl.,1
+179,Tabebuia Rosea (Bertol) Dc.,91
+179,Tectona Grandis L.F,4
+179,Terminalia Catappa L,43
+179,Thespesia Populnea,16
+180,Acacia Auriculiformis Cunn. Ex Benth,6
+180,Alstonia Macrophylla Wall. Ex Dc.,3
+180,Averrhoa Carambola L.,7
+180,Azadirachta Indica A. Juss.,1
+180,Bauhinia Blakeana Dunn,1
+180,Bauhinia Purpurea L.,15
+180,Bauhinia Racemosa Lam,9
+180,Bauhinia Variegata L.,12
+180,Caesalpinia Ferrea Mart. Ex Tul.,11
+180,Couroupita Guianensis Abul.,2
+180,Dalbergia Sissoo Roxb.,1
+180,Delonix Regia (Bojer Ex Hook.) Raf.,48
+180,Emblica Officinalis Gaertn.,2
+180,Ficus Benjamina L.,95
+180,Ficus Racemosa L.,1
+180,Ficus Religiosa L.,7
+180,Gmelina Arborea Roxb.,9
+180,Grevillea Robusta Cunn. Ex R. Br.,1
+180,Leucaena Latisiliqua (L.) Gillis,44
+180,Majidea Zanguebarica Oliv.,6
+180,Mangifera Indica L.,2
+180,Markhamia Lutea (Benth.) K.Schum,72
+180,Michelia Champaca L,3
+180,Millingtonia Hortensis L.F,48
+180,Muntingia Calabura L.,9
+180,Neolomarckia,4
+180,Others,35
+180,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,14
+180,Phoenix Sylvestris (L.) Roxb.,6
+180,Pithecellobium Dulce (Roxb.) Benth.,2
+180,Pongamia Pinnata (L.) Pierre,118
+180,Prosopis Juliflora (Sw.) Dc.,9
+180,Samanea Saman (Jacq.) Merr.,86
+180,Saraca Asoca (Roxb.) De Wilde,12
+180,Simarouba Glauca Dc.,36
+180,Swietenia Mahagoni (L.) Jacq.,141
+180,Syzygium Cumini (L.) Skeels,9
+180,Tabebuia Rosea (Bertol) Dc.,209
+180,Talauma Mutabilis Bl.,1
+180,Terminalia Catappa L,14
+180,Thespesia Populnea,68
+181,Acacia Auriculiformis Cunn. Ex Benth,16
+181,Acacia Chundra (Roxb. Ex Rottl.),4
+181,Acacia Leucophloea (Roxb.) Wild,1
+181,Adenanthera Pavonina L.,10
+181,Aegle Marmelos (L.) Corr. Serr.,5
+181,Ailanthus Triphysa (Dennst.) Alston,1
+181,Albizia Lebbeck (L.) Benth.,5
+181,Albizia Odoratissima (L.F.) Bent,6
+181,Aleurites Moluccana (L.) Wild.,3
+181,Alstonia Macrophylla Wall. Ex Dc.,1
+181,Alstonia Scholaris (L.) R. Br.,1
+181,Anacardium Occidentale L.,1
+181,Annona Reticulata L.,1
+181,Annona Squamosa L,2
+181,Araucaria Columnaris,1
+181,Artocarpus Heterophyllus Lam.,6
+181,Azadirachta Indica A. Juss.,12
+181,Barringtonia Asiatica (L.) Kurz,3
+181,Bauhinia Galpinii N.E. Br.,1
+181,Bauhinia Purpurea L.,2
+181,Bauhinia Racemosa Lam,9
+181,Bauhinia Tomentosa L.,3
+181,Bauhinia Variegata L.,4
+181,Broussonetia Luzonica Bureau,2
+181,Caesalpinia Ferrea Mart. Ex Tul.,1
+181,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,6
+181,Caryota Mitis Lour.,7
+181,Caryota Urens L,7
+181,Cassia Grandis L.F,3
+181,Cassia Moschata Kunth,2
+181,Cassine Paniculata (Wight & Arn.),1
+181,Castanospermum Australe Cunn. & Fraser,1
+181,Ceiba Pentandra (L.) Gaertn.,1
+181,Centrolobium Microchaete (Mart. Ex Benth.),4
+181,Cirtus Grandis (L.) Osbeck,1
+181,Citharexylum Fruticosum L.,1
+181,Cocos Nucifera L.,17
+181,Cordia Wallichii G. Don,4
+181,Crescentia Cujete L.,6
+181,Delonix Regia (Bojer Ex Hook.) Raf.,1
+181,Dillenia Indica L,1
+181,Diospyros Ebenum Koenig.,2
+181,Elaeocarpus Grandis F. Muell.,2
+181,Emblica Officinalis Gaertn.,4
+181,Erythrina Umbrosa Kunth,5
+181,Erythroxylum Monogynum Roxb.,2
+181,Ficus Auriculata Lour.,1
+181,Ficus Benghalensis L.,7
+181,Ficus Benjamina L.,10
+181,Ficus Elastica Roxb. Ex Hornem,1
+181,Ficus Pandurata Hance,1
+181,Ficus Racemosa L.,4
+181,Ficus Religiosa L.,6
+181,Filicium Decipiens (Wt. & Arn.),1
+181,Flacouratia Inermis Roxb.,3
+181,Grevillea Robusta Cunn. Ex R. Br.,11
+181,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,1
+181,Joannesia Princeps Vell,3
+181,Khaya Senegalensis (Desr.) A. Juss.,19
+181,Kigelia Africana (Lam.) Benth,15
+181,Leucaena Latisiliqua (L.) Gillis,5
+181,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,5
+181,Lonchocarpus Minimiflorus J.D. Smith,4
+181,Malpighia Glabra L.,2
+181,Mangifera Indica L.,10
+181,Manilkara Zapota (L.) P. Royen,1
+181,Markhamia Lutea (Benth.) K.Schum,42
+181,Melaleuca Bracteate F. Muell.,1
+181,Michelia Champaca L,1
+181,Michelia Longifolia Blume,1
+181,Millingtonia Hortensis L.F,32
+181,Muntingia Calabura L.,7
+181,Neolomarckia,6
+181,Ochroma Lagopus Sw,6
+181,Others,7
+181,Peltophorum Africanum Sond.,25
+181,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,36
+181,Persea Americana Mille,1
+181,Persea Macrantha (Nees) Kosterm,1
+181,Plumeri Obtusa L. Var. Obtusa,1
+181,Plumeria Obtusa L. Var. Sericiflora,1
+181,Plumeria Rubra L. Forma Acutifolia,41
+181,Polyalthia Longifolia (Sonn.) Thwaites,4
+181,Pongamia Pinnata (L.) Pierre,44
+181,Prosopis Juliflora (Sw.) Dc.,3
+181,Psidium Guajava L.,1
+181,Pterospermum Acerifolium (L.) Wild,1
+181,Roystonea Regia (H.B.K) O. F. Cook,7
+181,Salix Tetrasperma Roxb,1
+181,Samanea Saman (Jacq.) Merr.,23
+181,Sapindus Laurifolius Vahl,6
+181,Sapium Sebiferum (L.) Roxb.,3
+181,Saraca Asoca (Roxb.) De Wilde,36
+181,Sesbania Grandiflora (L.) Poiret,16
+181,Spondias Pinnata (L.F.) Kurz,8
+181,Swietenia Mahagoni (L.) Jacq.,40
+181,Syzygium Cumini (L.) Skeels,5
+181,Syzygium Nervosum Dc,2
+181,Syzygium Samarangese (Bl.) Merr. & Perry,2
+181,Tabebuia Aurea (Manso) Benth. & Hook.F. Ex S. Moore,4
+181,Tabebuia Impetiginosa (Mart. Ex Dc.) Standl.,1
+181,Tabebuia Pallida (Lindley) Miers,1
+181,Tabebuia Rosea (Bertol) Dc.,11
+181,Terminalia Arjuna (Roxb. Ex Dc.) Wight & Arn.,1
+181,Terminalia Catappa L,27
+181,Terminalia Crenulata Roth,1
+181,Thespesia Populnea,12
+181,Wrightia Tinctoria (Roxb.) R. Br,4
+181,Ziziphus Mauritiana Lam,1
+182,Acacia Auriculiformis Cunn. Ex Benth,9
+182,Adenanthera Pavonina L.,1
+182,Aegle Marmelos (L.) Corr. Serr.,4
+182,Albizia Lebbeck (L.) Benth.,3
+182,Bauhinia Forficata,1
+182,Bauhinia Racemosa Lam,8
+182,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,2
+182,Caryota Urens L,2
+182,Cassia Grandis L.F,1
+182,Centrolobium Microchaete (Mart. Ex Benth.),1
+182,Clusia Rosea Jacq.,1
+182,Cocos Nucifera L.,2
+182,Elaeocarpus Grandis F. Muell.,1
+182,Emblica Officinalis Gaertn.,1
+182,Erythroxylum Monogynum Roxb.,1
+182,Ficus Benghalensis L.,2
+182,Ficus Benjamina L.,1
+182,Firmiana Colorata (Roxb.) R. Br.,1
+182,Flacouratia Inermis Roxb.,1
+182,Garcinia Indica (Thouars) Choisy,2
+182,Joannesia Princeps Vell,2
+182,Khaya Senegalensis (Desr.) A. Juss.,14
+182,Kigelia Africana (Lam.) Benth,6
+182,Malpighia Glabra L.,1
+182,Manihot Glaziovii Muell. -Arg,1
+182,Millingtonia Hortensis L.F,22
+182,Ochroma Lagopus Sw,8
+182,Parkia Biglandulosa Wt. & Arn.,1
+182,Peltophorum Africanum Sond.,17
+182,Plumeria Rubra L. Forma Acutifolia,1
+182,Sapindus Laurifolius Vahl,1
+182,Sesbania Grandiflora (L.) Poiret,19
+182,Spondias Pinnata (L.F.) Kurz,6
+182,Syzygium Aromaticum (L.) Merr. & Perry,1
+182,Wrightia Tinctoria (Roxb.) R. Br,3
+182,Ziziphus Mauritiana Lam,3
+183,Acacia Chundra (Roxb. Ex Rottl.),1
+183,Acacia Leucophloea (Roxb.) Wild,1
+183,Aegle Marmelos (L.) Corr. Serr.,2
+183,Albizia Odoratissima (L.F.) Bent,1
+183,Azadirachta Indica A. Juss.,1
+183,Bauhinia Forficata,1
+183,Bauhinia Racemosa Lam,4
+183,Caryota Urens L,2
+183,Cassia Javanica L.,1
+183,Castanospermum Australe Cunn. & Fraser,1
+183,Elaeocarpus Grandis F. Muell.,2
+183,Erythrina Umbrosa Kunth,1
+183,Erythroxylum Monogynum Roxb.,1
+183,Ficus Religiosa L.,2
+183,Firmiana Colorata (Roxb.) R. Br.,1
+183,Flacouratia Inermis Roxb.,3
+183,Hibiscus Tiliaceus L,1
+183,Joannesia Princeps Vell,1
+183,Khaya Senegalensis (Desr.) A. Juss.,5
+183,Kigelia Africana (Lam.) Benth,5
+183,Lepisanthes Tetraphylla (Vahl) Radlk.,1
+183,Lonchocarpus Minimiflorus J.D. Smith,2
+183,Malpighia Glabra L.,2
+183,Millingtonia Hortensis L.F,2
+183,Neolomarckia,1
+183,Peltophorum Africanum Sond.,4
+183,Persea Americana Mille,1
+183,Plumeria Rubra L. Forma Acutifolia,4
+183,Pterospermum Acerifolium (L.) Wild,1
+183,Sapindus Laurifolius Vahl,2
+183,Saraca Asoca (Roxb.) De Wilde,1
+183,Sesbania Grandiflora (L.) Poiret,2
+183,Spondias Pinnata (L.F.) Kurz,2
+183,Thespesia Populnea,1
+183,Wrightia Tinctoria (Roxb.) R. Br,1
+183,ficus Drupacea,1
+184,Azadirachta Indica A. Juss.,1
+184,Bauhinia Purpurea L.,1
+184,Bauhinia Racemosa Lam,1
+184,Cocos Nucifera L.,1
+184,Delonix Regia (Bojer Ex Hook.) Raf.,2
+184,Eucalyptus Tereticornis Sm.,2
+184,Ficus Religiosa L.,3
+184,Mangifera Indica L.,2
+184,Markhamia Lutea (Benth.) K.Schum,2
+184,Michelia Longifolia Blume,1
+184,Muntingia Calabura L.,3
+184,Others,3
+184,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,1
+184,Polyalthia Longifolia (Sonn.) Thwaites,1
+184,Pongamia Pinnata (L.) Pierre,9
+184,Roystonea Regia (H.B.K) O. F. Cook,1
+184,Samanea Saman (Jacq.) Merr.,8
+184,Saraca Asoca (Roxb.) De Wilde,3
+184,Swietenia Mahagoni (L.) Jacq.,3
+184,Syzygium Cumini (L.) Skeels,1
+184,Tabebuia Rosea (Bertol) Dc.,1
+184,Terminalia Catappa L,8
+184,Thespesia Populnea,2
+189,Filicium Decipiens (Wt. & Arn.),1
+196,Bauhinia Purpurea L.,1
+196,Bauhinia Variegata L.,1
+196,Dillenia Indica L,1
+196,Ficus Religiosa L.,2
+196,Grevillea Robusta Cunn. Ex R. Br.,19
+196,Khaya Senegalensis (Desr.) A. Juss.,1
+196,Mimusops Elengi L.,11
+196,Pongamia Pinnata (L.) Pierre,1
+196,Sesbania Grandiflora (L.) Poiret,1
+196,Tabebuia Rosea (Bertol) Dc.,1
+196,Terminalia Catappa L,10
+200,Acacia Auriculiformis Cunn. Ex Benth,53
+200,Acacia Catechu (L. F.) Wild.,9
+200,Adenanthera Pavonina L.,1
+200,Aegle Marmelos (L.) Corr. Serr.,3
+200,Albizia Lebbeck (L.) Benth.,2
+200,Alstonia Macrophylla Wall. Ex Dc.,9
+200,Alstonia Scholaris (L.) R. Br.,1
+200,Annona Reticulata L.,7
+200,Annona Squamosa L,4
+200,Araucaria Columnaris,4
+200,Artocarpus Altitilis (Park.) Fosb.,3
+200,Artocarpus Heterophyllus Lam.,14
+200,Artocarpus Hirsutus Lam.,6
+200,Averrhoa Carambola L.,1
+200,Barringtonia Acutangula (L.),1
+200,Bauhinia Blakeana Dunn,1
+200,Bauhinia Purpurea L.,8
+200,Bauhinia Racemosa Lam,2
+200,Bauhinia Tomentosa L.,1
+200,Bauhinia Variegata L.,5
+200,Bombax Malabaricum Dc,9
+200,Calamus Prasinus Lak. & Renuka,4
+200,Calophyllum Inophyllum L,4
+200,Caryota Urens L,4
+200,Cassia Fistula,1
+200,Cassia Javanica L.,3
+200,Cassia Moschata Kunth,1
+200,Casuarina Equisetifolia L.,2
+200,Cedrela Odorata L,1
+200,Ceiba Pentandra (L.) Gaertn.,8
+200,Cinnamomum Verum J.S. Presl,2
+200,Clusia Rosea Jacq.,1
+200,Cochlospermum Religiosum (L.),3
+200,Cocos Nucifera L.,29
+200,Cordia Wallichii G. Don,3
+200,Crescentia Cujete L.,5
+200,Dalbergia Sissoo Roxb.,2
+200,Diospyros Cordifolia Roxb.,1
+200,Diospyros Ebenum Koenig.,1
+200,Diospyros Melanoxylon Roxb.,1
+200,Erythina Standleyana Krukoff,1
+200,Erythroxylum Monogynum Roxb.,1
+200,Eucalyptus Tereticornis Sm.,7
+200,Ficus Benghalensis L.,24
+200,Ficus Racemosa L.,20
+200,Ficus Religiosa L.,14
+200,Ficus Virens Aiton (Ficus Infectoria Sensu Roxb. -Type Iii),1
+200,Flacouratia Inermis Roxb.,1
+200,Gliricidia Sepium,1
+200,Gmelina Arborea Roxb.,1
+200,Grevillea Robusta Cunn. Ex R. Br.,583
+200,Guazuma Ulmifolia Lam,1
+200,Jacaranda Acutifolia Humb. & Bonp,1
+200,Joannesia Princeps Vell,1
+200,Kigelia Africana (Lam.) Benth,1
+200,Lagerstroemia Speciosa (L.) Pers,14
+200,Leucaena Latisiliqua (L.) Gillis,1
+200,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,554
+200,Madhuca Indica J. Gmelin,28
+200,Majidea Zanguebarica Oliv.,3
+200,Mangifera Indica L.,8
+200,Manilkara Zapota (L.) P. Royen,10
+200,Markhamia Lutea (Benth.) K.Schum,38
+200,Melia Azedarach L,1
+200,Melia Dubia Cav,7
+200,Michelia Champaca L,8
+200,Millingtonia Hortensis L.F,46
+200,Mimusops Elengi L.,50
+200,Mitragyna Parviflora (Roxb.) Korth.,3
+200,Moringa Oleifera Lam.,1
+200,Muntingia Calabura L.,5
+200,Murraya Koenigii (L.) Spreng.,2
+200,Neolomarckia,14
+200,Ochroma Lagopus Sw,4
+200,Others,5
+200,Peltophorum Africanum Sond.,4
+200,Persea Americana Mille,1
+200,Persea Macrantha (Nees) Kosterm,1
+200,Phoenix Rupicola T. Anders,3
+200,Plumaria alba,1
+200,Plumeria Rubra L. Forma Rubra,3
+200,Polyalthia Longifolia (Sonn.) Thwaites,1
+200,Pongamia Pinnata (L.) Pierre,415
+200,Pritchardia Pacifica Seem. & H. Wendl.,2
+200,Prosopis Juliflora (Sw.) Dc.,2
+200,Pseudobombax Ellipticum (H.B.K.) Dug,1
+200,Pterocarpus Marsupium Roxb,14
+200,Pterospermum Acerifolium (L.) Wild,2
+200,Reutealis Trisperma (Blco.) Airy Shaw,1
+200,Rhapis Excelsa Henry,6
+200,Samanea Saman (Jacq.) Merr.,190
+200,Santalum Album L,1
+200,Sapindus Laurifolius Vahl,1
+200,Sapium Sebiferum (L.) Roxb.,3
+200,Saraca Asoca (Roxb.) De Wilde,50
+200,Semecarpus Anacardium L.F,1
+200,Sesbania Grandiflora (L.) Poiret,9
+200,Shorea Roxburghii G. Don,1
+200,Simarouba Glauca Dc.,2
+200,Spathodea Campanulata P. Beauv,82
+200,Spondias Pinnata (L.F.) Kurz,10
+200,Swietenia Mahagoni (L.) Jacq.,211
+200,Syzygium Cumini (L.) Skeels,1
+200,Syzygium Jambos (L.) Alston,1
+200,Syzygium Laetum (Buch. -Ham.),1
+200,Syzygium Nervosum Dc,2
+200,Syzygium Samarangese (Bl.) Merr. & Perry,1
+200,Tabebuia Rosea (Bertol) Dc.,2
+200,Terminalia Arjuna (Roxb. Ex Dc.) Wight & Arn.,2
+200,Terminalia Catappa L,300
+200,Thespesia Populnea,1
+200,Wrightia Tinctoria (Roxb.) R. Br,144
+200,Ziziphus Mauritiana Lam,6
+200,ficus Drupacea,1
+201,Acacia Auriculiformis Cunn. Ex Benth,3
+201,Acacia Catechu (L. F.) Wild.,2
+201,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,2
+201,Artocarpus Altitilis (Park.) Fosb.,1
+201,Bauhinia Blakeana Dunn,1
+201,Calophyllum Inophyllum L,1
+201,Ceiba Pentandra (L.) Gaertn.,1
+201,Cordia Wallichii G. Don,1
+201,Delonix Regia (Bojer Ex Hook.) Raf.,1
+201,Ficus Racemosa L.,1
+201,Ficus Religiosa L.,4
+201,Grevillea Robusta Cunn. Ex R. Br.,50
+201,Mimusops Elengi L.,5
+201,Muntingia Calabura L.,1
+201,Others,1
+201,Plumaria alba,1
+201,Pongamia Pinnata (L.) Pierre,6
+201,Pterocarpus Marsupium Roxb,1
+201,Saraca Asoca (Roxb.) De Wilde,10
+201,Sesbania Grandiflora (L.) Poiret,2
+201,Spondias Pinnata (L.F.) Kurz,20
+201,Tamarindus Indica L.,1
+201,Terminalia Catappa L,14
+201,Thespesia Populnea (L.) Sol. Ex Corr. Serr,1
+201,Wrightia Tinctoria (Roxb.) R. Br,4
+201,Ziziphus Mauritiana Lam,1
+202,Artocarpus Heterophyllus Lam.,1
+202,Madhuca Indica J. Gmelin,1
+202,Markhamia Lutea (Benth.) K.Schum,1
+202,Michelia Champaca L,1
+202,Polyalthia Longifolia (Sonn.) Thwaites,1
+202,Pongamia Pinnata (L.) Pierre,4
+202,Samanea Saman (Jacq.) Merr.,7
+202,Saraca Asoca (Roxb.) De Wilde,2
+202,Spathodea Campanulata P. Beauv,6
+202,Swietenia Mahagoni (L.) Jacq.,4
+202,Terminalia Catappa L,1
+204,Muntingia Calabura L.,1
+204,Tabebuia Rosea (Bertol) Dc.,1
+206,Artocarpus Heterophyllus Lam.,17
+206,Azadirachta Indica A. Juss.,35
+206,Calophyllum Inophyllum L,1
+206,Cocos Nucifera L.,121
+206,Cordia Wallichii G. Don,1
+206,Delonix Regia (Bojer Ex Hook.) Raf.,35
+206,Erythina Standleyana Krukoff,1
+206,Erythrina Umbrosa Kunth,6
+206,Ficus Benghalensis L.,8
+206,Ficus Racemosa L.,5
+206,Grevillea Robusta Cunn. Ex R. Br.,10
+206,Malpighia Glabra L.,1
+206,Mangifera Indica L.,46
+206,Michelia Longifolia Blume,44
+206,Millingtonia Hortensis L.F,5
+206,Mimusops Elengi L.,22
+206,Muntingia Calabura L.,5
+206,Others,150
+206,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,22
+206,Phyllanthus Acidus (L.) Skeels,3
+206,Plumeria Rubra L. Forma Acutifolia,2
+206,Polyalthia Longifolia (Sonn.) Thwaites,1
+206,Pongamia Pinnata (L.) Pierre,144
+206,Psidium Guajava L.,15
+206,Pterocarpus Marsupium Roxb,5
+206,Ptychosperma Macarthuri Nichols,418
+206,Roystonea Regia (H.B.K) O. F. Cook,41
+206,Samanea Saman (Jacq.) Merr.,11
+206,Saraca Asoca (Roxb.) De Wilde,155
+206,Sesbania Grandiflora (L.) Poiret,1
+206,Spathodea Campanulata P. Beauv,72
+206,Swietenia Mahagoni (L.) Jacq.,11
+206,Syzygium Cumini (L.) Skeels,8
+206,Syzygium Nervosum Dc,2
+206,Tabebuia Rosea (Bertol) Dc.,28
+206,Tamarindus Indica L.,3
+206,Tectona Grandis L.F,7
+206,Terminalia Catappa L,60
+206,Thespesia Populnea,18
+206,Wrightia Tinctoria (Roxb.) R. Br,7
+207,Acacia Auriculiformis Cunn. Ex Benth,1
+207,Albizia Lebbeck (L.) Benth.,1
+207,Annona Squamosa L,2
+207,Artocarpus Heterophyllus Lam.,16
+207,Azadirachta Indica A. Juss.,22
+207,Bauhinia Blakeana Dunn,1
+207,Bauhinia Purpurea L.,3
+207,Bauhinia Racemosa Lam,5
+207,Cocos Nucifera L.,152
+207,Delonix Regia (Bojer Ex Hook.) Raf.,30
+207,Emblica Officinalis Gaertn.,2
+207,Erythina Standleyana Krukoff,27
+207,Erythrina Umbrosa Kunth,13
+207,Eucalyptus Tereticornis Sm.,2
+207,Ficus Benghalensis L.,4
+207,Ficus Infectoria Sensu Roxb. – Type 1,2
+207,Ficus Racemosa L.,12
+207,Ficus Religiosa L.,5
+207,Grevillea Robusta Cunn. Ex R. Br.,30
+207,Lonchocarpus Minimiflorus J.D. Smith,1
+207,Madhuca Indica J. Gmelin,2
+207,Mangifera Indica L.,46
+207,Manilkara Zapota (L.) P. Royen,8
+207,Markhamia Lutea (Benth.) K.Schum,2
+207,Melia Azedarach L,1
+207,Michelia Champaca L,1
+207,Michelia Longifolia Blume,52
+207,Millingtonia Hortensis L.F,10
+207,Mimusops Elengi L.,22
+207,Muntingia Calabura L.,14
+207,Others,296
+207,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,38
+207,Plumeria Rubra L. Forma Acutifolia,3
+207,Polyalthia Longifolia (Sonn.) Thwaites,8
+207,Pongamia Pinnata (L.) Pierre,441
+207,Psidium Guajava L.,9
+207,Pterocarpus Marsupium Roxb,3
+207,Ptychosperma Macarthuri Nichols,154
+207,Roystonea Regia (H.B.K) O. F. Cook,11
+207,Salix Tetrasperma Roxb,1
+207,Samanea Saman (Jacq.) Merr.,20
+207,Saraca Asoca (Roxb.) De Wilde,103
+207,Spathodea Campanulata P. Beauv,72
+207,Swietenia Mahagoni (L.) Jacq.,23
+207,Syzygium Cumini (L.) Skeels,13
+207,Syzygium Nervosum Dc,3
+207,Tabebuia Rosea (Bertol) Dc.,31
+207,Tamarindus Indica L.,4
+207,Tectona Grandis L.F,65
+207,Terminalia Catappa L,85
+207,Terminalia Crenulata Roth,1
+207,Thespesia Populnea,24
+207,Wrightia Tinctoria (Roxb.) R. Br,13
+208,Araucaria Columnaris,1
+208,Artocarpus Heterophyllus Lam.,22
+208,Azadirachta Indica A. Juss.,10
+208,Bauhinia Purpurea L.,1
+208,Bauhinia Racemosa Lam,1
+208,Bauhinia Variegata L.,1
+208,Cassia Grandis L.F,1
+208,Ceiba Pentandra (L.) Gaertn.,2
+208,Cocos Nucifera L.,91
+208,Delonix Regia (Bojer Ex Hook.) Raf.,19
+208,Erythrina Umbrosa Kunth,8
+208,Ficus Benghalensis L.,6
+208,Ficus Racemosa L.,4
+208,Mangifera Indica L.,56
+208,Manilkara Zapota (L.) P. Royen,3
+208,Melia Azedarach L,2
+208,Michelia Longifolia Blume,18
+208,Millingtonia Hortensis L.F,6
+208,Mimusops Elengi L.,49
+208,Muntingia Calabura L.,11
+208,Murraya Koenigii (L.) Spreng.,4
+208,Others,219
+208,Parkia Biglandulosa Wt. & Arn.,1
+208,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,20
+208,Phyllanthus Acidus (L.) Skeels,3
+208,Plumeria Rubra L. Forma Acutifolia,4
+208,Polyalthia Longifolia (Sonn.) Thwaites,2
+208,Pongamia Pinnata (L.) Pierre,163
+208,Psidium Guajava L.,7
+208,Pterocarpus Marsupium Roxb,2
+208,Ptychosperma Macarthuri Nichols,435
+208,Roystonea Regia (H.B.K) O. F. Cook,16
+208,Salix Tetrasperma Roxb,1
+208,Samanea Saman (Jacq.) Merr.,6
+208,Saraca Asoca (Roxb.) De Wilde,120
+208,Spathodea Campanulata P. Beauv,69
+208,Swietenia Mahagoni (L.) Jacq.,27
+208,Syzygium Cumini (L.) Skeels,1
+208,Tabebuia Rosea (Bertol) Dc.,28
+208,Tamarindus Indica L.,4
+208,Tectona Grandis L.F,3
+208,Terminalia Catappa L,32
+208,Terminalia Crenulata Roth,1
+208,Thespesia Populnea,12
+208,Vitex Altissima L.F,1
+210,Araucaria Columnaris,5
+210,Artocarpus Heterophyllus Lam.,27
+210,Azadirachta Indica A. Juss.,6
+210,Bauhinia Purpurea L.,22
+210,Bauhinia Racemosa Lam,2
+210,Bauhinia Variegata L.,10
+210,Cocos Nucifera L.,11
+210,Delonix Regia (Bojer Ex Hook.) Raf.,1
+210,Ficus Benghalensis L.,22
+210,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,131
+210,Mangifera Indica L.,4
+210,Michelia Champaca L,2
+210,Mimusops Elengi L.,4
+210,Others,137
+210,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,1
+210,Pongamia Pinnata (L.) Pierre,287
+210,Ptychosperma Macarthuri Nichols,1
+210,Samanea Saman (Jacq.) Merr.,193
+210,Saraca Asoca (Roxb.) De Wilde,62
+210,Spathodea Campanulata P. Beauv,88
+210,Swietenia Mahagoni (L.) Jacq.,395
+210,Tamarindus Indica L.,1
+210,Terminalia Catappa L,71
+211,Acacia Auriculiformis Cunn. Ex Benth,13
+211,Acacia Leucophloea (Roxb.) Wild,25
+211,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,3
+211,Adenanthera Pavonina L.,5
+211,Aegle Marmelos (L.) Corr. Serr.,8
+211,Ailanthus Triphysa (Dennst.) Alston,81
+211,Albizia Lebbeck (L.) Benth.,3
+211,Albizia Odoratissima (L.F.) Bent,3
+211,Aleurites Moluccana (L.) Wild.,1
+211,Alstonia Macrophylla Wall. Ex Dc.,1
+211,Anacardium Occidentale L.,8
+211,Annona Squamosa L,15
+211,Aphanamixis Polystachya (Wall.),5
+211,Araucaria Columnaris,33
+211,Artocarpus Altitilis (Park.) Fosb.,2
+211,Artocarpus Heterophyllus Lam.,114
+211,Artocarpus Hirsutus Lam.,19
+211,Azadirachta Indica A. Juss.,244
+211,Barringtonia Acutangula (L.),1
+211,Bauhinia Blakeana Dunn,3
+211,Bauhinia Forficata,1
+211,Bauhinia Galpinii N.E. Br.,1
+211,Bauhinia Purpurea L.,25
+211,Bauhinia Racemosa Lam,16
+211,Bauhinia Tomentosa L.,1
+211,Bauhinia Variegata L.,18
+211,Bauhinia Variegata L. Var. Candida Voigt.,12
+211,Broussonetia Luzonica Bureau,3
+211,Broussonetia Papyrifera Vent,25
+211,Butea Monosperma (Lam.) Taub,78
+211,Calamus Prasinus Lak. & Renuka,1
+211,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,75
+211,Calophyllum Inophyllum L,9
+211,Caryota Mitis Lour.,62
+211,Caryota Urens L,15
+211,Cassia Fistula,1
+211,Cassia Fistula L.,1
+211,Cassia Grandis L.F,1
+211,Cassia Javanica L.,4
+211,Cassia Moschata Kunth,25
+211,Cassia Roxburghii Dc.,27
+211,Castanospermum Australe Cunn. & Fraser,1
+211,Casuarina Equisetifolia L.,3
+211,Cedrela Odorata L,3
+211,Ceiba Speciosa (A. St. Hil.) Ravenna,5
+211,Centrolobium Microchaete (Mart. Ex Benth.),1
+211,Chukrasia Tabularis A. Juss.,6
+211,Cinnamomum Verum J.S. Presl,5
+211,Citharexylum Fruticosum L.,2
+211,Clusia Rosea Jacq.,4
+211,Cocos Nucifera L.,250
+211,Cordia Wallichii G. Don,4
+211,Crescentia Cujete L.,4
+211,Cyrtostachys Renda Blume,3
+211,Dalbergia Sissoo Roxb.,15
+211,Delonix Regia (Bojer Ex Hook.) Raf.,17
+211,Diospyros Ebenum Koenig.,12
+211,Diospyros Melanoxylon Roxb.,2
+211,Duadanga Grandiflora (Roxb. Ex Dc.) Walp.,2
+211,Dypsis Lutescens (Wendl.) Beentze & Dransfield,35
+211,Elaeocarpus Grandis F. Muell.,5
+211,Emblica Officinalis Gaertn.,3
+211,Enterolobium Contortisiliqum (Vell.),6
+211,Erythrina Umbrosa Kunth,7
+211,Erythroxylum Monogynum Roxb.,1
+211,Eucalyptus Tereticornis Sm.,61
+211,Eugenia Uniflora L,2
+211,Ficus Auriculata Lour.,3
+211,Ficus Benghalensis L.,273
+211,Ficus Benjamina L.,2
+211,Ficus Infectoria Sensu Roxb.-Type Ii,2
+211,Ficus Pandurata Hance,1
+211,Ficus Racemosa L.,69
+211,Ficus Religiosa L.,722
+211,Filicium Decipiens (Wt. & Arn.),31
+211,Flacouratia Inermis Roxb.,9
+211,Garcinia Indica (Thouars) Choisy,20
+211,Gliricidia Sepium,5
+211,Gmelina Arborea Roxb.,6
+211,Grevillea Robusta Cunn. Ex R. Br.,20
+211,Grewia Asiatica Sensu Masters,1
+211,Guazuma Ulmifolia Lam,1
+211,Hibiscus Tiliaceus L,5
+211,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,614
+211,Jacaranda Acutifolia Humb. & Bonp,7
+211,Joannesia Princeps Vell,7
+211,Khaya Senegalensis (Desr.) A. Juss.,24
+211,Kigelia Africana (Lam.) Benth,3
+211,Lagerstroemia Speciosa (L.) Pers,57
+211,Lepisanthes Tetraphylla (Vahl) Radlk.,1
+211,Leucaena Latisiliqua (L.) Gillis,1
+211,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,198
+211,Livistona Rotundifolia (Lam.) Mart.,1
+211,Lonchocarpus Minimiflorus J.D. Smith,2
+211,Madhuca Indica J. Gmelin,80
+211,Majidea Zanguebarica Oliv.,389
+211,Malpighia Glabra L.,7
+211,Mangifera Indica L.,171
+211,Manihot Glaziovii Muell. -Arg,1
+211,Manilkara Zapota (L.) P. Royen,10
+211,Markhamia Lutea (Benth.) K.Schum,412
+211,Melia Azedarach L,1
+211,Melia Dubia Cav,173
+211,Mesua Ferrea L,1
+211,Michelia Champaca L,53
+211,Michelia Longifolia Blume,1
+211,Millettia Peguensis Ali,1
+211,Millingtonia Hortensis L.F,99
+211,Mitragyna Parviflora (Roxb.) Korth.,2
+211,Moringa Oleifera Lam.,10
+211,Morus Alba L.,3
+211,Muntingia Calabura L.,78
+211,Murraya Koenigii (L.) Spreng.,6
+211,Neolomarckia,4
+211,Ochroma Lagopus Sw,18
+211,Others,18
+211,Parkia Biglandulosa Wt. & Arn.,21
+211,Parkinsonia Aculeata L,2
+211,Peltophorum Africanum Sond.,14
+211,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,364
+211,Persea Americana Mille,4
+211,Phoenix Rupicola T. Anders,30
+211,Phyllanthus Acidus (L.) Skeels,45
+211,Phyllanthus Polyphykkus Wild,1
+211,Plumeri Obtusa L. Var. Obtusa,1
+211,Plumeria Obtusa L. Var. Sericiflora,1
+211,Polyalthia Longifolia (Sonn.) Thwaites,119
+211,Pongamia Pinnata (L.) Pierre,799
+211,Pritchardia Pacifica Seem. & H. Wendl.,56
+211,Prosopis Juliflora (Sw.) Dc.,4
+211,Psidium Guajava L.,9
+211,Pterocarpus Marsupium Roxb,87
+211,Pterospermum Acerifolium (L.) Wild,1
+211,Ptychosperma Macarthuri Nichols,697
+211,Rhapis Excelsa Henry,4
+211,Roystonea Regia (H.B.K) O. F. Cook,1
+211,Samanea Saman (Jacq.) Merr.,92
+211,Santalum Album L,1
+211,Sapindus Laurifolius Vahl,2
+211,Sapium Sebiferum (L.) Roxb.,17
+211,Saraca Asoca (Roxb.) De Wilde,348
+211,Semecarpus Anacardium L.F,1
+211,Sesbania Grandiflora (L.) Poiret,18
+211,Shorea Roxburghii G. Don,2
+211,Spathodea Campanulata P. Beauv,57
+211,Spondias Pinnata (L.F.) Kurz,5
+211,Streblus Asper Lour,2
+211,Swietenia Macrophylla King,161
+211,Swietenia Mahagoni (L.) Jacq.,662
+211,Syagrus Romanzoffianum (Cham),4
+211,Syzygium Cumini (L.) Skeels,82
+211,Syzygium Laetum (Buch. -Ham.),4
+211,Syzygium Nervosum Dc,2
+211,Syzygium Samarangese (Bl.) Merr. & Perry,1
+211,Tabebuia Aurea (Manso) Benth. & Hook.F. Ex S. Moore,2
+211,Tabebuia Pallida (Lindley) Miers,1
+211,Tamarindus Indica L.,13
+211,Tecoma Castanifolia (D. Don) Melch,1
+211,Terminalia Arjuna (Roxb. Ex Dc.) Wight & Arn.,3
+211,Terminalia Catappa L,159
+211,Thespesia Populnea,112
+211,Thespesia Populnea (L.) Sol. Ex Corr. Serr,1
+211,Thevetia Peruviana (Pers.) Merr.,1
+211,Thrinax Parviflora Sw.,17
+211,Tipuana Tipu (Benth.) Kuntze,1
+211,Toona Ciliata M. Roeme,71
+211,Vitex Altissima L.F,2
+211,Vitex Negunda,1
+211,Wrightia Tinctoria (Roxb.) R. Br,36
+211,Ziziphus Mauritiana Lam,3
+211,ficus Drupacea,2
+212,Acacia Auriculiformis Cunn. Ex Benth,10
+212,Acacia Catechu (L. F.) Wild.,2
+212,Acacia Leucophloea (Roxb.) Wild,3
+212,Adenanthera Pavonina L.,1
+212,Aegle Marmelos (L.) Corr. Serr.,7
+212,Ailanthus Triphysa (Dennst.) Alston,4
+212,Albizia Lebbeck (L.) Benth.,2
+212,Alstonia Macrophylla Wall. Ex Dc.,1
+212,Alstonia Scholaris (L.) R. Br.,1
+212,Annona Cherimola Mill.,1
+212,Annona Squamosa L,3
+212,Araucaria Columnaris,3
+212,Artocarpus Altitilis (Park.) Fosb.,1
+212,Artocarpus Heterophyllus Lam.,42
+212,Artocarpus Hirsutus Lam.,1
+212,Azadirachta Indica A. Juss.,20
+212,Barringtonia Acutangula (L.),1
+212,Bauhinia Blakeana Dunn,1
+212,Bauhinia Purpurea L.,6
+212,Bauhinia Racemosa Lam,7
+212,Bauhinia Tomentosa L.,1
+212,Bauhinia Variegata L.,12
+212,Bauhinia Variegata L. Var. Candida Voigt.,2
+212,Broussonetia Luzonica Bureau,8
+212,Broussonetia Papyrifera Vent,1
+212,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,2
+212,Cananga Odorata (Lam.) Hook.F. & Thoms.,1
+212,Caryota Mitis Lour.,1
+212,Cassia Fistula L.,1
+212,Cassia Moschata Kunth,1
+212,Cassia Roxburghii Dc.,12
+212,Cassine Paniculata (Wight & Arn.),1
+212,Casuarina Equisetifolia L.,1
+212,Ceiba Speciosa (A. St. Hil.) Ravenna,2
+212,Centrolobium Microchaete (Mart. Ex Benth.),1
+212,Cocos Nucifera L.,107
+212,Cordia Wallichii G. Don,2
+212,Crescentia Cujete L.,2
+212,Delonix Regia (Bojer Ex Hook.) Raf.,1
+212,Diospyros Melanoxylon Roxb.,3
+212,Elaeocarpus Grandis F. Muell.,1
+212,Erythrina Umbrosa Kunth,1
+212,Ficus Benghalensis L.,98
+212,Ficus Benjamina L.,1
+212,Ficus Racemosa L.,12
+212,Ficus Religiosa L.,140
+212,Filicium Decipiens (Wt. & Arn.),4
+212,Garcinia Indica (Thouars) Choisy,1
+212,Gliricidia Sepium,6
+212,Grevillea Robusta Cunn. Ex R. Br.,10
+212,Hibiscus Tiliaceus L,5
+212,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,2
+212,Jacaranda Acutifolia Humb. & Bonp,1
+212,Joannesia Princeps Vell,1
+212,Khaya Senegalensis (Desr.) A. Juss.,4
+212,Kigelia Africana (Lam.) Benth,1
+212,Lagerstroemia Speciosa (L.) Pers,4
+212,Madhuca Indica J. Gmelin,8
+212,Magnolia Grandiflora L,1
+212,Majidea Zanguebarica Oliv.,13
+212,Malpighia Glabra L.,3
+212,Mangifera Indica L.,46
+212,Manihot Glaziovii Muell. -Arg,1
+212,Manilkara Zapota (L.) P. Royen,4
+212,Markhamia Lutea (Benth.) K.Schum,16
+212,Melia Dubia Cav,14
+212,Michelia Champaca L,49
+212,Millingtonia Hortensis L.F,11
+212,Moringa Oleifera Lam.,3
+212,Muntingia Calabura L.,12
+212,Neolomarckia,1
+212,Ochroma Lagopus Sw,1
+212,Others,3
+212,Parkia Biglandulosa Wt. & Arn.,6
+212,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,90
+212,Persea Americana Mille,1
+212,Plumeria Rubra L. Forma Acutifolia,1
+212,Polyalthia Longifolia (Sonn.) Thwaites,39
+212,Pongamia Pinnata (L.) Pierre,213
+212,Pritchardia Pacifica Seem. & H. Wendl.,1
+212,Psidium Guajava L.,2
+212,Pterocarpus Marsupium Roxb,4
+212,Pterospermum Acerifolium (L.) Wild,2
+212,Ptychosperma Macarthuri Nichols,10
+212,Rhapis Excelsa Henry,2
+212,Roystonea Regia (H.B.K) O. F. Cook,1
+212,Samanea Saman (Jacq.) Merr.,18
+212,Saraca Asoca (Roxb.) De Wilde,68
+212,Sesbania Grandiflora (L.) Poiret,10
+212,Spathodea Campanulata P. Beauv,54
+212,Spondias Pinnata (L.F.) Kurz,4
+212,Swietenia Macrophylla King,24
+212,Swietenia Mahagoni (L.) Jacq.,66
+212,Syagrus Romanzoffianum (Cham),20
+212,Syzygium Cumini (L.) Skeels,5
+212,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,4
+212,Terminalia Catappa L,73
+212,Thespesia Populnea,25
+212,Thrinax Parviflora Sw.,1
+212,Toona Ciliata M. Roeme,12
+212,Wrightia Tinctoria (Roxb.) R. Br,7
+212,Ziziphus Mauritiana Lam,1
+213,Acacia Auriculiformis Cunn. Ex Benth,17
+213,Acacia Leucophloea (Roxb.) Wild,3
+213,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,2
+213,Adenanthera Pavonina L.,1
+213,Ailanthus Triphysa (Dennst.) Alston,1
+213,Aleurites Moluccana (L.) Wild.,1
+213,Annona Squamosa L,1
+213,Araucaria Columnaris,3
+213,Artocarpus Altitilis (Park.) Fosb.,3
+213,Artocarpus Heterophyllus Lam.,12
+213,Artocarpus Hirsutus Lam.,2
+213,Averrhoa Carambola L.,1
+213,Azadirachta Indica A. Juss.,54
+213,Barringtonia Asiatica (L.) Kurz,1
+213,Bauhinia Blakeana Dunn,2
+213,Bauhinia Forficata,1
+213,Bauhinia Purpurea L.,7
+213,Bauhinia Racemosa Lam,6
+213,Bauhinia Variegata L.,62
+213,Bombax Malabaricum Dc,2
+213,Brassaia Actinophylla Endl. Var. Capitata Clarke,9
+213,Broussonetia Luzonica Bureau,1
+213,Calamus Prasinus Lak. & Renuka,8
+213,Caryota Mitis Lour.,4
+213,Cassia Roxburghii Dc.,110
+213,Cassine Paniculata (Wight & Arn.),1
+213,Ceiba Speciosa (A. St. Hil.) Ravenna,30
+213,Cirtus Grandis (L.) Osbeck,1
+213,Citharexylum Fruticosum L.,1
+213,Cochlospermum Religiosum (L.),1
+213,Cocos Nucifera L.,118
+213,Cordia Lutea Lam.,2
+213,Cordia Wallichii G. Don,1
+213,Crescentia Cujete L.,1
+213,Cyrtostachys Renda Blume,1
+213,Delonix Regia (Bojer Ex Hook.) Raf.,17
+213,Diospyros Melanoxylon Roxb.,1
+213,Duadanga Grandiflora (Roxb. Ex Dc.) Walp.,1
+213,Dypsis Lutescens (Wendl.) Beentze & Dransfield,3
+213,Emblica Officinalis Gaertn.,2
+213,Erythrina Umbrosa Kunth,7
+213,Erythroxylum Monogynum Roxb.,4
+213,Eucalyptus Tereticornis Sm.,4
+213,Ficus Auriculata Lour.,1
+213,Ficus Benghalensis L.,9
+213,Ficus Benjamina L.,1
+213,Ficus Pandurata Hance,2
+213,Ficus Racemosa L.,12
+213,Ficus Religiosa L.,7
+213,Ficus Virens Aiton (Ficus Infectoria Sensu Roxb. -Type Iii),1
+213,Filicium Decipiens (Wt. & Arn.),1
+213,Firmiana Colorata (Roxb.) R. Br.,3
+213,Flacouratia Inermis Roxb.,1
+213,Gliricidia Sepium,7
+213,Grevillea Robusta Cunn. Ex R. Br.,33
+213,Guazuma Ulmifolia Lam,3
+213,Hibiscus Tiliaceus L,1
+213,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,319
+213,Jacaranda Acutifolia Humb. & Bonp,4
+213,Joannesia Princeps Vell,1
+213,Lagerstroemia Speciosa (L.) Pers,3
+213,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,6
+213,Madhuca Indica J. Gmelin,10
+213,Mangifera Indica L.,37
+213,Markhamia Lutea (Benth.) K.Schum,5
+213,Melia Dubia Cav,11
+213,Michelia Champaca L,23
+213,Millingtonia Hortensis L.F,8
+213,Moringa Oleifera Lam.,1
+213,Muntingia Calabura L.,76
+213,Murraya Koenigii (L.) Spreng.,14
+213,Others,228
+213,Parkia Biglandulosa Wt. & Arn.,1
+213,Peltophorum Africanum Sond.,1
+213,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,53
+213,Persea Americana Mille,1
+213,Phoenix Rupicola T. Anders,3
+213,Phoenix Sylvestris (L.) Roxb.,1
+213,Phyllanthus Acidus (L.) Skeels,3
+213,Plumeri Obtusa L. Var. Obtusa,1
+213,Plumeria Rubra L. Forma Acutifolia,3
+213,Plumeria Rubra L. Forma Lutea,1
+213,Polyalthia Longifolia (Sonn.) Thwaites,6
+213,Pongamia Pinnata (L.) Pierre,425
+213,Pritchardia Pacifica Seem. & H. Wendl.,114
+213,Psidium Guajava L.,9
+213,Pterocarpus Marsupium Roxb,7
+213,Ptychosperma Macarthuri Nichols,49
+213,Rhapis Excelsa Henry,5
+213,Samanea Saman (Jacq.) Merr.,5
+213,Santalum Album L,1
+213,Sapindus Laurifolius Vahl,1
+213,Sapium Sebiferum (L.) Roxb.,1
+213,Saraca Asoca (Roxb.) De Wilde,89
+213,Sesbania Grandiflora (L.) Poiret,3
+213,Simarouba Glauca Dc.,1
+213,Spathodea Campanulata P. Beauv,65
+213,Spondias Pinnata (L.F.) Kurz,2
+213,Swietenia Macrophylla King,5
+213,Swietenia Mahagoni (L.) Jacq.,339
+213,Syagrus Romanzoffianum (Cham),39
+213,Syzygium Cumini (L.) Skeels,1
+213,Syzygium Jambos (L.) Alston,1
+213,Syzygium Laetum (Buch. -Ham.),1
+213,Syzygium Nervosum Dc,1
+213,Tabebuia Aurea (Manso) Benth. & Hook.F. Ex S. Moore,1
+213,Tabebuia Pallida (Lindley) Miers,1
+213,Tabebuia Rosea (Bertol) Dc.,5
+213,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,18
+213,Tectona Grandis L.F,6
+213,Terminalia Catappa L,64
+213,Thespesia Populnea,13
+213,Thevetia Peruviana (Pers.) Merr.,1
+213,Thrinax Parviflora Sw.,2
+213,Tipuana Tipu (Benth.) Kuntze,1
+213,Toona Ciliata M. Roeme,10
+213,Vitex Altissima L.F,2
+213,Wrightia Tinctoria (Roxb.) R. Br,2
+213,Ziziphus Mauritiana Lam,1
+214,Acacia Auriculiformis Cunn. Ex Benth,33
+214,Acacia Catechu (L. F.) Wild.,5
+214,Acacia Leucophloea (Roxb.) Wild,5
+214,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,8
+214,Adenanthera Pavonina L.,3
+214,Aegle Marmelos (L.) Corr. Serr.,4
+214,Ailanthus Triphysa (Dennst.) Alston,20
+214,Albizia Lebbeck (L.) Benth.,2
+214,Aleurites Moluccana (L.) Wild.,1
+214,Alstonia Macrophylla Wall. Ex Dc.,1
+214,Alstonia Scholaris (L.) R. Br.,1
+214,Anacardium Occidentale L.,5
+214,Annona Cherimola Mill.,2
+214,Annona Reticulata L.,1
+214,Annona Squamosa L,7
+214,Araucaria Columnaris,30
+214,Artocarpus Altitilis (Park.) Fosb.,13
+214,Artocarpus Heterophyllus Lam.,46
+214,Artocarpus Hirsutus Lam.,6
+214,Averrhoa Carambola L.,3
+214,Azadirachta Indica A. Juss.,138
+214,Barringtonia Acutangula (L.),1
+214,Barringtonia Asiatica (L.) Kurz,8
+214,Bauhinia Blakeana Dunn,9
+214,Bauhinia Forficata,20
+214,Bauhinia Galpinii N.E. Br.,6
+214,Bauhinia Purpurata (Vieill.),2
+214,Bauhinia Purpurea L.,11
+214,Bauhinia Racemosa Lam,16
+214,Bauhinia Tomentosa L.,6
+214,Bauhinia Variegata L.,64
+214,Brassaia Actinophylla Endl. Var. Capitata Clarke,3
+214,Broussonetia Papyrifera Vent,1
+214,Butea Monosperma (Lam.) Taub,1
+214,Caesalpinia Ferrea Mart. Ex Tul.,2
+214,Calamus Prasinus Lak. & Renuka,61
+214,Calophyllum Inophyllum L,2
+214,Caryota Mitis Lour.,9
+214,Caryota Urens L,5
+214,Cassia Fistula,8
+214,Cassia Fistula L.,3
+214,Cassia Grandis L.F,1
+214,Cassia Javanica L.,11
+214,Cassia Moschata Kunth,13
+214,Cassia Roxburghii Dc.,47
+214,Cassine Paniculata (Wight & Arn.),5
+214,Casuarina Equisetifolia L.,4
+214,Cedrela Odorata L,8
+214,Ceiba Pentandra (L.) Gaertn.,5
+214,Ceiba Speciosa (A. St. Hil.) Ravenna,36
+214,Centrolobium Microchaete (Mart. Ex Benth.),2
+214,Chukrasia Tabularis A. Juss.,2
+214,Clusia Rosea Jacq.,16
+214,Cocos Nucifera L.,45
+214,Cordia Lutea Lam.,1
+214,Cordia Wallichii G. Don,9
+214,Couroupita Guianensis Abul.,1
+214,Cyrtostachys Renda Blume,5
+214,Delonix Regia (Bojer Ex Hook.) Raf.,432
+214,Dillenia Indica L,8
+214,Diospyros Melanoxylon Roxb.,3
+214,Drypetes Roxburghii (Wall.) Hurus,1
+214,Duadanga Grandiflora (Roxb. Ex Dc.) Walp.,1
+214,Dypsis Lutescens (Wendl.) Beentze & Dransfield,1
+214,Elaeocarpus Grandis F. Muell.,7
+214,Emblica Officinalis Gaertn.,6
+214,Enterolobium Contortisiliqum (Vell.),3
+214,Erythrina Suberosa Roxb.,1
+214,Erythrina Umbrosa Kunth,9
+214,Erythroxylum Monogynum Roxb.,8
+214,Eucalyptus Tereticornis Sm.,6
+214,Eugenia Uniflora L,1
+214,Ficus Auriculata Lour.,5
+214,Ficus Benghalensis L.,18
+214,Ficus Benjamina L.,1
+214,Ficus Elastica Roxb. Ex Hornem,4
+214,Ficus Pandurata Hance,1
+214,Ficus Racemosa L.,39
+214,Ficus Religiosa L.,17
+214,Ficus Virens Aiton (Ficus Infectoria Sensu Roxb. -Type Iii),6
+214,Filicium Decipiens (Wt. & Arn.),9
+214,Firmiana Colorata (Roxb.) R. Br.,30
+214,Flacouratia Inermis Roxb.,13
+214,Gliricidia Sepium,9
+214,Gmelina Arborea Roxb.,1
+214,Grevillea Robusta Cunn. Ex R. Br.,48
+214,Grewia Asiatica Sensu Masters,1
+214,Guazuma Ulmifolia Lam,1
+214,Hibiscus Tiliaceus L,1
+214,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,50
+214,Jacaranda Acutifolia Humb. & Bonp,2
+214,Joannesia Princeps Vell,2
+214,Khaya Senegalensis (Desr.) A. Juss.,7
+214,Kigelia Africana (Lam.) Benth,5
+214,Lagerstroemia Speciosa (L.) Pers,25
+214,Lepisanthes Tetraphylla (Vahl) Radlk.,1
+214,Leucaena Latisiliqua (L.) Gillis,1
+214,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,54
+214,Lonchocarpus Minimiflorus J.D. Smith,2
+214,Madhuca Indica J. Gmelin,68
+214,Majidea Zanguebarica Oliv.,1
+214,Malpighia Glabra L.,1
+214,Mangifera Indica L.,113
+214,Manihot Glaziovii Muell. -Arg,1
+214,Manilkara Zapota (L.) P. Royen,2
+214,Markhamia Lutea (Benth.) K.Schum,1
+214,Melaleuca Bracteate F. Muell.,8
+214,Melia Azedarach L,3
+214,Melia Dubia Cav,12
+214,Mesua Ferrea L,2
+214,Michelia Champaca L,3
+214,Millettia Peguensis Ali,1
+214,Millingtonia Hortensis L.F,6
+214,Moringa Oleifera Lam.,3
+214,Muntingia Calabura L.,77
+214,Murraya Koenigii (L.) Spreng.,9
+214,Neolomarckia,1
+214,Ochroma Lagopus Sw,13
+214,Others,520
+214,Parkia Biglandulosa Wt. & Arn.,7
+214,Peltophorum Africanum Sond.,17
+214,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,63
+214,Persea Americana Mille,2
+214,Phoenix Rupicola T. Anders,48
+214,Phoenix Sylvestris (L.) Roxb.,1
+214,Phyllanthus Acidus (L.) Skeels,11
+214,Pithecellobium Dulce (Roxb.) Benth.,6
+214,Plumeri Obtusa L. Var. Obtusa,13
+214,Plumeria Obtusa L. Var. Sericiflora,4
+214,Plumeria Rubra L. Forma Acutifolia,8
+214,Plumeria Rubra L. Forma Lutea,6
+214,Polyalthia Longifolia (Sonn.) Thwaites,45
+214,Pongamia Pinnata (L.) Pierre,793
+214,Pritchardia Pacifica Seem. & H. Wendl.,46
+214,Prosopis Juliflora (Sw.) Dc.,1
+214,Psidium Guajava L.,9
+214,Pterocarpus Marsupium Roxb,36
+214,Ptychosperma Macarthuri Nichols,7
+214,Rhapis Excelsa Henry,45
+214,Samanea Saman (Jacq.) Merr.,15
+214,Santalum Album L,2
+214,Sapindus Laurifolius Vahl,8
+214,Sapium Sebiferum (L.) Roxb.,1
+214,Saraca Asoca (Roxb.) De Wilde,329
+214,Schotia Brachypetala Sonder,1
+214,Semecarpus Anacardium L.F,1
+214,Sesbania Grandiflora (L.) Poiret,24
+214,Shorea Roxburghii G. Don,1
+214,Simarouba Glauca Dc.,59
+214,Spathodea Campanulata P. Beauv,181
+214,Spondias Pinnata (L.F.) Kurz,9
+214,Swietenia Macrophylla King,4
+214,Swietenia Mahagoni (L.) Jacq.,758
+214,Syagrus Romanzoffianum (Cham),3
+214,Syzygium Cumini (L.) Skeels,39
+214,Syzygium Laetum (Buch. -Ham.),8
+214,Syzygium Nervosum Dc,6
+214,Syzygium Samarangese (Bl.) Merr. & Perry,1
+214,Tabebuia Chrysotricha (Mart. Ex Dc.) Standl,1
+214,Tabebuia Pallida (Lindley) Miers,7
+214,Tabebuia Rosea (Bertol) Dc.,1
+214,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,25
+214,Tamarindus Indica L.,3
+214,Techoma Stans,1
+214,Tectona Grandis L.F,35
+214,Terminalia Catappa L,186
+214,Thespesia Populnea,21
+214,Thespesia Populnea (L.) Sol. Ex Corr. Serr,2
+214,Thevetia Peruviana (Pers.) Merr.,5
+214,Toona Ciliata M. Roeme,36
+214,Trema Orientalis (L.) Blume,1
+214,Vitex Altissima L.F,4
+214,Vitex Negunda,1
+214,Wrightia Tinctoria (Roxb.) R. Br,21
+214,Ziziphus Mauritiana Lam,7
+214,ficus Drupacea,2
+215,Acacia Auriculiformis Cunn. Ex Benth,3
+215,Acacia Catechu (L. F.) Wild.,1
+215,Acacia Leucophloea (Roxb.) Wild,12
+215,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,2
+215,Ailanthus Triphysa (Dennst.) Alston,2
+215,Alstonia Scholaris (L.) R. Br.,3
+215,Anacardium Occidentale L.,2
+215,Annona Reticulata L.,6
+215,Annona Squamosa L,2
+215,Araucaria Columnaris,25
+215,Artocarpus Altitilis (Park.) Fosb.,4
+215,Artocarpus Heterophyllus Lam.,50
+215,Artocarpus Hirsutus Lam.,22
+215,Azadirachta Indica A. Juss.,58
+215,Barringtonia Asiatica (L.) Kurz,1
+215,Bauhinia Blakeana Dunn,3
+215,Bauhinia Purpurea L.,9
+215,Bauhinia Racemosa Lam,1
+215,Bauhinia Tomentosa L.,3
+215,Bauhinia Variegata L.,11
+215,Bauhinia Variegata L. Var. Candida Voigt.,38
+215,Brassaia Actinophylla Endl. Var. Capitata Clarke,2
+215,Broussonetia Luzonica Bureau,1
+215,Calamus Prasinus Lak. & Renuka,4
+215,Calophyllum Inophyllum L,1
+215,Caryota Mitis Lour.,7
+215,Caryota Urens L,3
+215,Cassia Fistula,8
+215,Cassia Fistula L.,5
+215,Cassia Javanica L.,2
+215,Cassia Moschata Kunth,1
+215,Cassia Roxburghii Dc.,5
+215,Cassine Paniculata (Wight & Arn.),4
+215,Castanospermum Australe Cunn. & Fraser,1
+215,Cedrela Odorata L,1
+215,Ceiba Pentandra (L.) Gaertn.,2
+215,Ceiba Speciosa (A. St. Hil.) Ravenna,1
+215,Centrolobium Microchaete (Mart. Ex Benth.),1
+215,Chukrasia Tabularis A. Juss.,1
+215,Cinnamomum Verum J.S. Presl,1
+215,Citharexylum Fruticosum L.,1
+215,Clusia Rosea Jacq.,10
+215,Cocos Nucifera L.,159
+215,Crescentia Cujete L.,1
+215,Cyrtostachys Renda Blume,3
+215,Dalbergia Latifolia Roxb.,1
+215,Dalbergia Sissoo Roxb.,1
+215,Delonix Regia (Bojer Ex Hook.) Raf.,21
+215,Diospyros Melanoxylon Roxb.,2
+215,Dypsis Lutescens (Wendl.) Beentze & Dransfield,10
+215,Erythrina Suberosa Roxb.,3
+215,Eucalyptus Tereticornis Sm.,1
+215,Ficus Benghalensis L.,24
+215,Ficus Benjamina L.,5
+215,Ficus Pandurata Hance,19
+215,Ficus Racemosa L.,27
+215,Ficus Religiosa L.,87
+215,Filicium Decipiens (Wt. & Arn.),2
+215,Firmiana Colorata (Roxb.) R. Br.,2
+215,Flacouratia Inermis Roxb.,5
+215,Grevillea Robusta Cunn. Ex R. Br.,1
+215,Hibiscus Tiliaceus L,4
+215,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,19
+215,Jacaranda Acutifolia Humb. & Bonp,8
+215,Joannesia Princeps Vell,17
+215,Khaya Senegalensis (Desr.) A. Juss.,4
+215,Lagerstroemia Speciosa (L.) Pers,37
+215,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,32
+215,Madhuca Indica J. Gmelin,11
+215,Majidea Zanguebarica Oliv.,34
+215,Malpighia Glabra L.,2
+215,Mangifera Indica L.,89
+215,Manihot Glaziovii Muell. -Arg,1
+215,Manilkara Zapota (L.) P. Royen,8
+215,Markhamia Lutea (Benth.) K.Schum,117
+215,Melia Azedarach L,2
+215,Melia Dubia Cav,17
+215,Mesua Ferrea L,1
+215,Michelia Champaca L,81
+215,Millingtonia Hortensis L.F,35
+215,Moringa Oleifera Lam.,8
+215,Muntingia Calabura L.,40
+215,Murraya Koenigii (L.) Spreng.,7
+215,Ochroma Lagopus Sw,1
+215,Others,87
+215,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,155
+215,Persea Americana Mille,7
+215,Phoenix Rupicola T. Anders,2
+215,Phyllanthus Acidus (L.) Skeels,12
+215,Phyllanthus Polyphykkus Wild,1
+215,Polyalthia Longifolia (Sonn.) Thwaites,148
+215,Pongamia Pinnata (L.) Pierre,727
+215,Pritchardia Pacifica Seem. & H. Wendl.,11
+215,Psidium Guajava L.,10
+215,Pterocarpus Marsupium Roxb,11
+215,Ptychosperma Macarthuri Nichols,433
+215,Rhapis Excelsa Henry,18
+215,Samanea Saman (Jacq.) Merr.,36
+215,Saraca Asoca (Roxb.) De Wilde,268
+215,Sesbania Grandiflora (L.) Poiret,4
+215,Simarouba Glauca Dc.,3
+215,Spathodea Campanulata P. Beauv,38
+215,Swietenia Macrophylla King,16
+215,Swietenia Mahagoni (L.) Jacq.,322
+215,Syagrus Romanzoffianum (Cham),2
+215,Syzygium Cumini (L.) Skeels,24
+215,Syzygium Nervosum Dc,1
+215,Tabebuia Chrysotricha (Mart. Ex Dc.) Standl,1
+215,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,7
+215,Tectona Grandis L.F,1
+215,Terminalia Catappa L,162
+215,Thespesia Populnea,37
+215,Thrinax Parviflora Sw.,2
+215,Toona Ciliata M. Roeme,18
+215,Vitex Altissima L.F,4
+215,Vitex Negunda,3
+215,Wrightia Tinctoria (Roxb.) R. Br,6
+215,Ziziphus Mauritiana Lam,1
+216,Acacia Auriculiformis Cunn. Ex Benth,17
+216,Acacia Catechu (L. F.) Wild.,3
+216,Acacia Leucophloea (Roxb.) Wild,21
+216,Acacia Nilotica (L.) Del. Subsp. Indica (Benth.) Brenan,5
+216,Adenanthera Pavonina L.,9
+216,Aegle Marmelos (L.) Corr. Serr.,2
+216,Ailanthus Triphysa (Dennst.) Alston,1
+216,Albizia Lebbeck (L.) Benth.,2
+216,Anacardium Occidentale L.,3
+216,Annona Reticulata L.,2
+216,Annona Squamosa L,10
+216,Araucaria Columnaris,16
+216,Artocarpus Altitilis (Park.) Fosb.,6
+216,Artocarpus Heterophyllus Lam.,39
+216,Artocarpus Hirsutus Lam.,3
+216,Azadirachta Indica A. Juss.,61
+216,Barringtonia Acutangula (L.),3
+216,Bauhinia Forficata,1
+216,Bauhinia Racemosa Lam,1
+216,Bauhinia Tomentosa L.,8
+216,Bauhinia Variegata L.,13
+216,Bauhinia Variegata L. Var. Candida Voigt.,20
+216,Bombax Malabaricum Dc,1
+216,Brassaia Actinophylla Endl. Var. Capitata Clarke,15
+216,Broussonetia Luzonica Bureau,4
+216,Broussonetia Papyrifera Vent,1
+216,Caesalpinia Ferrea Mart. Ex Tul.,1
+216,Calamus Prasinus Lak. & Renuka,1
+216,Callistemon Viminalis (Soland. Ex Gaertn.) G. Don,16
+216,Calophyllum Inophyllum L,2
+216,Caryota Mitis Lour.,3
+216,Caryota Urens L,9
+216,Cassia Fistula,2
+216,Cassia Fistula L.,2
+216,Casuarina Equisetifolia L.,1
+216,Cedrela Odorata L,6
+216,Ceiba Speciosa (A. St. Hil.) Ravenna,2
+216,Centrolobium Microchaete (Mart. Ex Benth.),2
+216,Cinnamomum Verum J.S. Presl,1
+216,Cirtus Grandis (L.) Osbeck,2
+216,Cocos Nucifera L.,143
+216,Cordia Wallichii G. Don,3
+216,Couroupita Guianensis Abul.,3
+216,Crescentia Cujete L.,1
+216,Delonix Regia (Bojer Ex Hook.) Raf.,23
+216,Diospyros Ebenum Koenig.,7
+216,Diospyros Melanoxylon Roxb.,2
+216,Dypsis Lutescens (Wendl.) Beentze & Dransfield,36
+216,Elaeocarpus Grandis F. Muell.,1
+216,Emblica Officinalis Gaertn.,2
+216,Erythrina Suberosa Roxb.,1
+216,Erythrina Umbrosa Kunth,1
+216,Erythroxylum Monogynum Roxb.,1
+216,Eucalyptus Tereticornis Sm.,3
+216,Eugenia Uniflora L,1
+216,Ficus Auriculata Lour.,1
+216,Ficus Benghalensis L.,108
+216,Ficus Pandurata Hance,1
+216,Ficus Racemosa L.,29
+216,Ficus Religiosa L.,49
+216,Filicium Decipiens (Wt. & Arn.),5
+216,Flacouratia Inermis Roxb.,13
+216,Garcinia Indica (Thouars) Choisy,23
+216,Gliricidia Sepium,6
+216,Grevillea Robusta Cunn. Ex R. Br.,8
+216,Hibiscus Tiliaceus L,2
+216,Hydristele Wendlandiana (C. Moore & F. Muell.) H. Wendl. & Drude,177
+216,Jacaranda Acutifolia Humb. & Bonp,6
+216,Khaya Senegalensis (Desr.) A. Juss.,49
+216,Kigelia Africana (Lam.) Benth,3
+216,Lagerstroemia Speciosa (L.) Pers,25
+216,Lepisanthes Tetraphylla (Vahl) Radlk.,2
+216,Leucaena Latisiliqua (L.) Gillis,2
+216,Limonia Acidissima L.,1
+216,Livistona Chinensis (Jacq.) R. Br. Ex Mart.,141
+216,Livistona Rotundifolia (Lam.) Mart.,2
+216,Madhuca Indica J. Gmelin,19
+216,Majidea Zanguebarica Oliv.,7
+216,Malpighia Glabra L.,2
+216,Mangifera Indica L.,89
+216,Manihot Glaziovii Muell. -Arg,2
+216,Manilkara Zapota (L.) P. Royen,7
+216,Markhamia Lutea (Benth.) K.Schum,286
+216,Melia Azedarach L,4
+216,Melia Dubia Cav,19
+216,Michelia Champaca L,133
+216,Michelia Longifolia Blume,1
+216,Millingtonia Hortensis L.F,27
+216,Moringa Oleifera Lam.,1
+216,Muntingia Calabura L.,35
+216,Murraya Koenigii (L.) Spreng.,4
+216,Ochroma Lagopus Sw,3
+216,Others,19
+216,Peltophorum Africanum Sond.,4
+216,Peltophorum Pterocarpum (Dc.) Back. Ex K. Heyne,167
+216,Persea Americana Mille,1
+216,Phoenix Rupicola T. Anders,23
+216,Phyllanthus Acidus (L.) Skeels,16
+216,Pithecellobium Dulce (Roxb.) Benth.,2
+216,Plumeria Obtusa L. Var. Sericiflora,2
+216,Polyalthia Longifolia (Sonn.) Thwaites,99
+216,Pongamia Pinnata (L.) Pierre,607
+216,Pritchardia Pacifica Seem. & H. Wendl.,21
+216,Prosopis Juliflora (Sw.) Dc.,11
+216,Psidium Guajava L.,14
+216,Pterocarpus Marsupium Roxb,14
+216,Pterospermum Acerifolium (L.) Wild,1
+216,Ptychosperma Macarthuri Nichols,119
+216,Rhapis Excelsa Henry,12
+216,Roystonea Regia (H.B.K) O. F. Cook,1
+216,Salix Tetrasperma Roxb,1
+216,Samanea Saman (Jacq.) Merr.,78
+216,Santalum Album L,7
+216,Sapindus Laurifolius Vahl,2
+216,Saraca Asoca (Roxb.) De Wilde,202
+216,Semecarpus Anacardium L.F,1
+216,Sesbania Grandiflora (L.) Poiret,12
+216,Shorea Roxburghii G. Don,1
+216,Spathodea Campanulata P. Beauv,41
+216,Spondias Pinnata (L.F.) Kurz,1
+216,Swietenia Macrophylla King,22
+216,Swietenia Mahagoni (L.) Jacq.,246
+216,Syagrus Romanzoffianum (Cham),1
+216,Syzygium Cumini (L.) Skeels,24
+216,Syzygium Nervosum Dc,1
+216,Tabebuia Chrysotricha (Mart. Ex Dc.) Standl,2
+216,Tabernaemontana Divericata L. R. Br. Ex Roem. & Schult.,3
+216,Talauma Mutabilis Bl.,1
+216,Terminalia Catappa L,219
+216,Thespesia Populnea,24
+216,Thespesia Populnea (L.) Sol. Ex Corr. Serr,1
+216,Thrinax Parviflora Sw.,8
+216,Toona Ciliata M. Roeme,24
+216,Vitex Altissima L.F,4
+216,Vitex Negunda,3
+216,Wrightia Tinctoria (Roxb.) R. Br,32
+216,Ziziphus Mauritiana Lam,7
+217,Others,1
+217,Pongamia Pinnata (L.) Pierre,4
+218,Cocos Nucifera L.,1
+218,Mangifera Indica L.,1
+218,Muntingia Calabura L.,1
+218,Others,3
+218,Pongamia Pinnata (L.) Pierre,2

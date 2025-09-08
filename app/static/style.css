@@ -1,0 +1,49 @@
+/* style.css - simple responsive layout */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#sidebar {
+  position: absolute;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 320px;
+  padding: 12px;
+  background: #ffffff;
+  border-right: 1px solid #ccc;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+#sidebar h3 {
+  margin-top: 0;
+  font-size: 18px;
+}
+
+#chart-wrap {
+  margin-top: 10px;
+}
+
+.info.legend {
+  background: white;
+  padding: 8px;
+  font: 12px/14px Arial, sans-serif;
+  border-radius: 6px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+.info.legend h4 {
+  margin: 0 0 5px;
+  font-size: 13px;
+}
+
+#map {
+  position: absolute;
+  left: 320px; /* leave room for sidebar */
+  top: 0;
+  bottom: 0;
+  right: 0;
+}

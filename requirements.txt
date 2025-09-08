@@ -1,0 +1,42 @@
+# -------------------------------
+# Backend framework
+# -------------------------------
+Flask==3.0.3              # Web framework for backend APIs and serving frontend
+Werkzeug==3.0.3           # WSGI utilities used by Flask
+Jinja2==3.1.4             # Template engine for rendering HTML
+
+# -------------------------------
+# Data processing & analysis
+# -------------------------------
+pandas==2.2.3             # Data handling and tabular processing
+numpy==2.1.1              # Numerical computations, arrays, and math functions
+geopandas==1.0.1          # Spatial data handling (extends pandas with geometry support)
+
+# -------------------------------
+# Geospatial dependencies
+# -------------------------------
+shapely==2.0.5            # Geometry operations (buffer, union, intersections, etc.)
+fiona==1.9.6              # Reading/writing geospatial vector data (shapefiles, GeoJSON, etc.)
+pyproj==3.6.1             # Coordinate reference system (CRS) transformations
+rtree==1.3.0              # Spatial indexing (required by GeoPandas for faster queries)
+
+# -------------------------------
+# Visualization (server-side / preprocessing)
+# -------------------------------
+matplotlib==3.9.2         # Plotting and charts (if needed in preprocessing scripts)
+
+# -------------------------------
+# Raster / DEM support
+# -------------------------------
+rasterio==1.3.10          # Handling raster/DEM data (GeoTIFF, coordinate alignment)
+affine==2.4.0             # Matrix transforms for raster data (used by rasterio)
+
+# -------------------------------
+# Development utilities
+# -------------------------------
+click==8.1.7              # CLI utility (Flask & GeoPandas dependency)
+certifi>=2024.07.04       # SSL certificates (network requests, Fiona/GDAL often depend on it)
+setuptools>=75.1.0        # Package management
+wheel>=0.44.0             # Build support
+
+# Frontend libraries (Leaflet.js, Chart.js) are not mentioned because they’re loaded via CDN in index.html.
